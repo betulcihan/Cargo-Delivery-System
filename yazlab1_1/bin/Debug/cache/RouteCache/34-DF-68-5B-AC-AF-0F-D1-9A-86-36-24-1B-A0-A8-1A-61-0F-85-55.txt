@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXYg8Sp-P0BQRIliYhDqYv78",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXYg8Sp-P0BQRIliYhDqYv78",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.9182013,
+               "lng" : 32.4976124
+            },
+            "southwest" : {
+               "lat" : 37.9182013,
+               "lng" : 32.4976124
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Sakarya, Belova Sk. No:9, 42100 Horozluhan Osb/Selçuklu/Konya, Turkey",
+               "end_location" : {
+                  "lat" : 37.9182013,
+                  "lng" : 32.4976124
+               },
+               "start_address" : "Sakarya, Belova Sk. No:9, 42100 Horozluhan Osb/Selçuklu/Konya, Turkey",
+               "start_location" : {
+                  "lat" : 37.9182013,
+                  "lng" : 32.4976124
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 37.9182013,
+                        "lng" : 32.4976124
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBelova Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w{lfFaejeE"
+                     },
+                     "start_location" : {
+                        "lat" : 37.9182013,
+                        "lng" : 32.4976124
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w{lfFaejeE"
+         },
+         "summary" : "Belova Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

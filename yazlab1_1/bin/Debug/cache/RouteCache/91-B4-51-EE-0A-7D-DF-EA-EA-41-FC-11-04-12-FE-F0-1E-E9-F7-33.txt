@@ -1,0 +1,97 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAyJkh2FFyxQRidhRMOXtWCo",
+         "types" : [
+            "establishment",
+            "food",
+            "grocery_or_supermarket",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAyJkh2FFyxQRidhRMOXtWCo",
+         "types" : [
+            "establishment",
+            "food",
+            "grocery_or_supermarket",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7593057,
+               "lng" : 29.9452083
+            },
+            "southwest" : {
+               "lat" : 40.7593057,
+               "lng" : 29.9452083
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Yosun Sk. No:9, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7593057,
+                  "lng" : 29.9452083
+               },
+               "start_address" : "Körfez, Yosun Sk. No:9, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7593057,
+                  "lng" : 29.9452083
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7593057,
+                        "lng" : 29.9452083
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKaradut Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxwwFqtwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7593057,
+                        "lng" : 29.9452083
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uxwwFqtwuD"
+         },
+         "summary" : "Karadut Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

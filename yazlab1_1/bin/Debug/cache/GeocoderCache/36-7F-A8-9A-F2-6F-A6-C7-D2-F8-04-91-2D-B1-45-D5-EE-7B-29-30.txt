@@ -1,0 +1,58 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Körfez",
+               "short_name" : "Körfez",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41040",
+               "short_name" : "41040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Körfez ANKARAKARAYOLU CADDESİ NO: 129, Körfez, 41040 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76432579999999,
+               "lng" : 29.9450341
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76567478029149,
+                  "lng" : 29.9463830802915
+               },
+               "southwest" : {
+                  "lat" : 40.7629768197085,
+                  "lng" : 29.9436851197085
+               }
+            }
+         },
+         "place_id" : "ChIJX1mvfn5FyxQRU8ysUcIm5iw",
+         "plus_code" : {
+            "compound_code" : "QW7W+P2 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW7W+P2"
+         },
+         "types" : [ "establishment", "local_government_office", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

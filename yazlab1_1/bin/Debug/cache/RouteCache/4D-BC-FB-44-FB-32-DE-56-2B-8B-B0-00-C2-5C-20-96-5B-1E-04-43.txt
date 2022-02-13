@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVRr01dVI0xQRFhJvhgOp1fQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVRr01dVI0xQRFhJvhgOp1fQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9373071,
+               "lng" : 32.8022451
+            },
+            "southwest" : {
+               "lat" : 39.9373071,
+               "lng" : 32.8022451
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Gazi, Cumhurbaşkanlığı Blv No:150, 06560 Yenimahalle/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9373071,
+                  "lng" : 32.8022451
+               },
+               "start_address" : "Gazi, Cumhurbaşkanlığı Blv No:150, 06560 Yenimahalle/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9373071,
+                  "lng" : 32.8022451
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9373071,
+                        "lng" : 32.8022451
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eSöğütözü Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "egwrFauegE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9373071,
+                        "lng" : 32.8022451
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "egwrFauegE"
+         },
+         "summary" : "Söğütözü Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

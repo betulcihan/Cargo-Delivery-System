@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj4vMy-hPyxQRupnEny8IOYE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj4vMy-hPyxQRupnEny8IOYE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7709292,
+               "lng" : 29.9608288
+            },
+            "southwest" : {
+               "lat" : 40.7709292,
+               "lng" : 29.9608288
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yenişehir, Özden Sk. No:27, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7709292,
+                  "lng" : 29.9608288
+               },
+               "start_address" : "Yenişehir, Özden Sk. No:27, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7709292,
+                  "lng" : 29.9608288
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7709292,
+                        "lng" : 29.9608288
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİpek Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iazwFevzuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7709292,
+                        "lng" : 29.9608288
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iazwFevzuD"
+         },
+         "summary" : "İpek Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

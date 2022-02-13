@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ47CqdsC1yhQRKD5SZRUkiqo",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ47CqdsC1yhQRKD5SZRUkiqo",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.1126501,
+               "lng" : 29.0213034
+            },
+            "southwest" : {
+               "lat" : 41.1126501,
+               "lng" : 29.0213034
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Maslak, Dereboyu 2 Cd 15 A, 34398 Şişli/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.1126501,
+                  "lng" : 29.0213034
+               },
+               "start_address" : "Maslak, Dereboyu 2 Cd 15 A, 34398 Şişli/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.1126501,
+                  "lng" : 29.0213034
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.1126501,
+                        "lng" : 29.0213034
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "ay|yFcfcpD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.1126501,
+                        "lng" : 29.0213034
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ay|yFcfcpD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

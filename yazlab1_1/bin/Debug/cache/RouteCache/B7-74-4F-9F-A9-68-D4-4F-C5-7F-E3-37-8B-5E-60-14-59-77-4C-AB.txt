@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRT0eeYhPyxQR_q130_U3hKQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkb9aII1PyxQRdBW3Wqdiwl4",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7656079,
+               "lng" : 29.9513562
+            },
+            "southwest" : {
+               "lat" : 40.7624244,
+               "lng" : 29.9395161
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1655
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 225
+               },
+               "end_address" : "M. Alipaşa, Doğu Kışla Youth Park, Köse Sk. No:36, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7656079,
+                  "lng" : 29.9513562
+               },
+               "start_address" : "Körfez, Berk Sk. No:8, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645351,
+                  "lng" : 29.9395161
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBerk Sk.\u003c/b\u003e toward \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyxwF_qvuDU_G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645351,
+                        "lng" : 29.9395161
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635613,
+                        "lng" : 29.9408351
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "azxwF_yvuDhCCnAC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7628735,
+                        "lng" : 29.9397015
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eİstanbul İzmit Yanyolu\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gsxwFgyvuDHRBLBT@ZBXF\\DPHPJLTNZLJBNB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635613,
+                        "lng" : 29.9408351
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7625308,
+                        "lng" : 29.9396891
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eİstanbul İzmit Yanyolu\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}nxwFcrvuDbA@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7628735,
+                        "lng" : 29.9397015
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1070
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 40.7640365,
+                        "lng" : 29.9509285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eİstanbul İzmit Yanyolu\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ylxwFarvuDTACYA}AEmCCkDAcCAWAaCEmEC}BAwBEcDAi@GcEAq@IiHIiECOAICOQc@KB]EGCKAQCyAQ]GWE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7625308,
+                        "lng" : 29.9396891
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7656079,
+                        "lng" : 29.9513562
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eKöse Sk.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "gvxwFixxuDQCEOCECAAAAA[C_AOw@KaCU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7640365,
+                        "lng" : 29.9509285
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kyxwF_qvuDU_GhCCnACHRFb@Dt@Ln@HP`@\\f@PrADTACYGkFEoHMeNQiOK{IMyEEYQc@KBe@I]EaDc@IUECuCa@aCU"
+         },
+         "summary" : "İstanbul İzmit Yanyolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

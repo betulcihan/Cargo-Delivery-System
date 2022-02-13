@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN3Uz5tZPyxQRtLvSMxtBxng",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLXfdmOxPyxQRKE2MBKmg26E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7847182,
+               "lng" : 29.9696869
+            },
+            "southwest" : {
+               "lat" : 40.7723887,
+               "lng" : 29.9526352
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 km",
+                  "value" : 2273
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 375
+               },
+               "end_address" : "M. Alipaşa, Turan Güneş Cd. No:244, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7726463,
+                  "lng" : 29.9526352
+               },
+               "start_address" : "Çayırköy, Arkan Sk. No:2, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7847182,
+                  "lng" : 29.9696869
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "2.3 km",
+                        "value" : 2273
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 375
+                     },
+                     "end_location" : {
+                        "lat" : 40.7726463,
+                        "lng" : 29.9526352
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e toward \u003cb\u003eDilek Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ow|wFqm|uDJJLHdAj@hAd@bH`BfARzAXdCh@n@NhCl@~@HX@RDtDhArAf@\\N`@NbA`@l@`@l@b@FDb@l@FHf@|@p@vA~@lCFVJt@Dr@@bA?DG|AAh@@`@Jx@FZHXP\\T\\|@~@nBrBd@bAfAnBDDp@dANZHPHr@@l@?n@?h@B~ANdBFh@?B?B?@?BRd@R\\x@z@T^DLTf@X|@b@|AFx@?VATETI^c@fCGRGXIVCT?XP|AFl@Dj@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7847182,
+                        "lng" : 29.9696869
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ow|wFqm|uDXTdAj@hAd@jJtB`FbAxD|@xAJRDtDhApBv@dBp@zAdAj@r@n@fAp@vA~@lCRlAFvBGbB?jARtAHXP\\T\\|@~@nBrBd@bAlAtB`A`BHPHr@@|ABhCVvC?Df@bAx@z@T^Zt@|@zCFx@?VGj@m@fD]zA?XP|ALxA"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

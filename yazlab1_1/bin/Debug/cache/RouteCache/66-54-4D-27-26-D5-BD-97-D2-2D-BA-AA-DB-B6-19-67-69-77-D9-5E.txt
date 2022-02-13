@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJa-e7CDZFyxQRX7kXjksu5X0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDz7FSphayxQRWZ-PW7B8KFU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7377338,
+               "lng" : 30.0022125
+            },
+            "southwest" : {
+               "lat" : 40.7229733,
+               "lng" : 29.9675498
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.4 km",
+                  "value" : 5381
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 582
+               },
+               "end_address" : "Hacı Mustafa, Gazi Osman Paşa Cd. No:3, 41250 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.737603,
+                  "lng" : 29.9999035
+               },
+               "start_address" : "Karadenizliler, Başyiğit Cd. No:188, 41140 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7360855,
+                  "lng" : 29.9677771
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7349156,
+                        "lng" : 29.9675498
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eBaşyiğit Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qgswFsa|uDJ@PBbBZfBJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7360855,
+                        "lng" : 29.9677771
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3365
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 354
+                     },
+                     "end_location" : {
+                        "lat" : 40.72298430000001,
+                        "lng" : 30.0022125
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBaşyiğit Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g`swFe`|uD?CBsBBuABgA@m@?E?[?M@o@@a@FiE@gA@SJuHBwB@o@?I?KNoKR{TFqD?UBu@Bi@@_@Dg@JaAReBLo@j@}B@Cx@qCVy@\\_An@sAr@uAzAcC`BoCv@mAtAyBnAwBb@cAzAeCd@u@?C`DoFnFkIBElA_Bv@gAN}@h@g@j@w@t@mAf@k@jDeG`AaBt@}A`A{B`@_A^aAFUx@aD`AgEr@yD?En@cDDc@@U?OA["
+                     },
+                     "start_location" : {
+                        "lat" : 40.7349156,
+                        "lng" : 29.9675498
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1554
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 40.7363139,
+                        "lng" : 29.9966923
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eÇuhane Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "supwFyxbvDMBSBk@L}@VKB{Ah@wC`A]JiCx@eF|AsA\\yBv@SFcPtFiC|@{F~AaNfEMFmAZeCn@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.72298430000001,
+                        "lng" : 30.0022125
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.7377338,
+                        "lng" : 29.9998596
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazi Osman Paşa Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}hswFivavDu@sAEMCKGa@IgAEYMu@_@gAa@}@a@y@_@w@ISg@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7363139,
+                        "lng" : 29.9966923
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 40.737603,
+                        "lng" : 29.9999035
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yqswFcjbvDXG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7377338,
+                        "lng" : 29.9998596
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qgswFsa|uD\\DbBZfBJBwBF}C@}ALcJv@sq@NgHFgA^gDx@mDz@uCt@yBbBiD|DsGlCgEnAwBb@cA`C{D`DsFrFqIdCgDN}@h@g@`BeCf@k@jDeG`AaBt@}AbB{Df@wAzBiJr@_Et@gE@e@A[MB_APiAZ{KpDeF|AsA\\mC~@mTrH{F~AaNfE{Ab@eCn@u@sAIYQiBSoAaAeCsBkEXG"
+         },
+         "summary" : "Başyiğit Cd. and Çuhane Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

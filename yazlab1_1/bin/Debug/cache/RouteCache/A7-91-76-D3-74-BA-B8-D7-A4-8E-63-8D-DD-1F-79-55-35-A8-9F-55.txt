@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvfQCFgQ-yhQRhWdt0B2IFuA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvfQCFgQ-yhQRhWdt0B2IFuA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1953042,
+               "lng" : 29.0532631
+            },
+            "southwest" : {
+               "lat" : 40.1953042,
+               "lng" : 29.0532631
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Çırpan, 1. Çınarlı Sk. No:8, 16050 Osmangazi/Bursa, Turkey",
+               "end_location" : {
+                  "lat" : 40.1953042,
+                  "lng" : 29.0532631
+               },
+               "start_address" : "Çırpan, 1. Çınarlı Sk. No:8, 16050 Osmangazi/Bursa, Turkey",
+               "start_location" : {
+                  "lat" : 40.1953042,
+                  "lng" : 29.0532631
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1953042,
+                        "lng" : 29.0532631
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eMerinoslu Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ssitF{mipD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1953042,
+                        "lng" : 29.0532631
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ssitF{mipD"
+         },
+         "summary" : "Merinoslu Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,253 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyTdPFYxPyxQRX78LirKBSTU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnTpG_YZPyxQRFpeej3SRALk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.76726250000001,
+               "lng" : 29.9473032
+            },
+            "southwest" : {
+               "lat" : 40.7651227,
+               "lng" : 29.9349606
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1471
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 346
+               },
+               "end_address" : "Cedit, Aziz Yıldız Sk. No:16, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7662274,
+                  "lng" : 29.9358942
+               },
+               "start_address" : "Kadıköy, Okur Sk. No:31, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.76726250000001,
+                  "lng" : 29.9473032
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.766017,
+                        "lng" : 29.947056
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eAktürk Sk.\u003c/b\u003e toward \u003cb\u003eZümrüt Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kjywFsaxuDvFn@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76726250000001,
+                        "lng" : 29.9473032
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.7662083,
+                        "lng" : 29.9446816
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZümrüt Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sbywFc`xuDOxCQvCChD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.766017,
+                        "lng" : 29.947056
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.7655647,
+                        "lng" : 29.9446033
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGüvercin Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ycywFgqwuD|@FbAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7662083,
+                        "lng" : 29.9446816
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 600
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w_ywFwpwuDQxGCz@?FEvCB^FlBDpB?N@l@?Ff@nGZ|CZtC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7655647,
+                        "lng" : 29.9446033
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHalit Molla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_}xwFwdvuD_Et@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.7659489,
+                        "lng" : 29.9349606
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eBostanlar Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_cywFacvuDNhAPhB@^At@ClBCxA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.76657,
+                        "lng" : 29.9357918
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eAziz Yıldız Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ebywFotuuDWKo@_@AE?G@K@G?E?A?AAAA?EAEACAAACEEUEQGMGG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7659489,
+                        "lng" : 29.9349606
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.7662274,
+                        "lng" : 29.9358942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAziz Yıldız Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "afywFuyuuDDAj@MPC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76657,
+                        "lng" : 29.9357918
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kjywFsaxuDvFn@OxCQvCChD`CNUtIE~CJlCFvDf@nGZ|CZtC_Et@`@rD?tAGfEgAk@@a@AKQEQo@OUp@OPC"
+         },
+         "summary" : "Atatürk Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

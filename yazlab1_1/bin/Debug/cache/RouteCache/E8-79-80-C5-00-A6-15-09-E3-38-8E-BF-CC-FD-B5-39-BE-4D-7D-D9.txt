@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ34cKfdEizhQR9FCPg419d5U",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ34cKfdEizhQR9FCPg419d5U",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9446307,
+               "lng" : 31.4515158
+            },
+            "southwest" : {
+               "lat" : 38.9446307,
+               "lng" : 31.4515158
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 03630 Avdan/Emirdağ/Afyonkarahisar, Turkey",
+               "end_location" : {
+                  "lat" : 38.9446307,
+                  "lng" : 31.4515158
+               },
+               "start_address" : "Unnamed Road, 03630 Avdan/Emirdağ/Afyonkarahisar, Turkey",
+               "start_location" : {
+                  "lat" : 38.9446307,
+                  "lng" : 31.4515158
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9446307,
+                        "lng" : 31.4515158
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "}julF_{}~D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9446307,
+                        "lng" : 31.4515158
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}julF_{}~D"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

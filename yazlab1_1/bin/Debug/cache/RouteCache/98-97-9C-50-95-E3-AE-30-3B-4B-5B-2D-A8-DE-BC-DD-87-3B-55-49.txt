@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ecAtbS5yhQRjp0nfEveUNY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ecAtbS5yhQRjp0nfEveUNY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.9969387,
+               "lng" : 28.9930039
+            },
+            "southwest" : {
+               "lat" : 40.9969387,
+               "lng" : 28.9930039
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Avrasya Tüneli, Turkey",
+               "end_location" : {
+                  "lat" : 40.9969387,
+                  "lng" : 28.9930039
+               },
+               "start_address" : "Avrasya Tüneli, Turkey",
+               "start_location" : {
+                  "lat" : 40.9969387,
+                  "lng" : 28.9930039
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.9969387,
+                        "lng" : 28.9930039
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eAvcılar - Bostancı\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBostancı - Avcılar\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eKadıköy - Yenikapı\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eYenikapı - Kadıköy\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{efyFgu}oD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.9969387,
+                        "lng" : 28.9930039
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{efyFgu}oD"
+         },
+         "summary" : "Avcılar - Bostancı/Bostancı - Avcılar/Kadıköy - Yenikapı/Yenikapı - Kadıköy",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ28TnXYlPyxQRRcqvP-JYejY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAw3djQ9PyxQRUMv2FWVdC5o",
+         "types" : [ "doctor", "establishment", "health", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7649007,
+               "lng" : 29.9472098
+            },
+            "southwest" : {
+               "lat" : 40.7642302,
+               "lng" : 29.9449247
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 235
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 35
+               },
+               "end_address" : "Körfez Mahallesi Ahmet Ergüneş Sokak Altun İş Merkezi, Körfez, D:No :21, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7642302,
+                  "lng" : 29.9471982
+               },
+               "start_address" : "Körfez, Şht. Rafet Karacan Blv No:48, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7649007,
+                  "lng" : 29.9449247
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 196
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645778,
+                        "lng" : 29.9472098
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s{xwFwrwuD?G\\kE?C?C@I@G@O?CNkBJ{A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7649007,
+                        "lng" : 29.9449247
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7642302,
+                        "lng" : 29.9471982
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "syxwFaaxuDn@DTC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645778,
+                        "lng" : 29.9472098
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s{xwFwrwuDb@aGZgEn@DTC"
+         },
+         "summary" : "Şht. Rafet Karacan Blv",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

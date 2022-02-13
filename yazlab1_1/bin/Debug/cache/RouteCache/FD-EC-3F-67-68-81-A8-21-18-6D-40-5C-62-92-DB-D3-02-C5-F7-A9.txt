@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN3Uz5tZPyxQRtLvSMxtBxng",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDVxCW41PyxQRQGF-dEyCpzA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7847182,
+               "lng" : 29.9696869
+            },
+            "southwest" : {
+               "lat" : 40.7687289,
+               "lng" : 29.94920399999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2918
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "end_address" : "Kadıköy, Selahattin Mutlu Sk. No:54, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7687289,
+                  "lng" : 29.9499038
+               },
+               "start_address" : "Çayırköy, Arkan Sk. No:2, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7847182,
+                  "lng" : 29.9696869
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "2.6 km",
+                        "value" : 2597
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 445
+                     },
+                     "end_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e toward \u003cb\u003eDilek Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ow|wFqm|uDJJLHdAj@hAd@bH`BfARzAXdCh@n@NhCl@~@HX@RDtDhArAf@\\N`@NbA`@l@`@l@b@FDb@l@FHf@|@p@vA~@lCFVJt@Dr@@bA?DG|AAh@@`@Jx@FZHXP\\T\\|@~@nBrBd@bAfAnBDDp@dANZHPHr@@l@?n@?h@B~ANdBFh@?B?B?@?BRd@R\\x@z@T^DLTf@X|@b@|AFx@?VATETI^c@fCGRGXIVCT?XP|AFl@TjCFfADb@RjB@pAHPRb@R`@R`@Pf@lAbC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7847182,
+                        "lng" : 29.9696869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 40.7687289,
+                        "lng" : 29.9499038
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSelahattin Mutlu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gezwFomxuD~Bu@r@MfBSr@CVAjASv@ShAE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ow|wFqm|uDXTdAj@hAd@jJtB`FbAxD|@xAJRDtDhApBv@dBp@zAdAj@r@n@fAp@vA~@lCRlAFvBGbB?jARtAHXP\\T\\|@~@nBrBd@bAlAtB`A`BHPHr@@|ABhCVvC?Df@bAx@z@T^Zt@|@zCFx@?VGj@m@fD]zA?XP|A\\xDLjBRjB@pA\\t@f@bAPf@lAbC~Bu@r@MfBSr@CVAjASv@ShAE"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

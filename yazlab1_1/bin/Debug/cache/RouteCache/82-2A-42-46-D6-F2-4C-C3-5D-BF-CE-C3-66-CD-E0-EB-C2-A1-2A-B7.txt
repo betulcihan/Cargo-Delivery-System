@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJD3CKa4xPyxQRvyzNOREks9M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXdraxfJPyxQRpuYD4butTGk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.767631,
+               "lng" : 29.95167319999999
+            },
+            "southwest" : {
+               "lat" : 40.766017,
+               "lng" : 29.9468725
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 568
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 137
+               },
+               "end_address" : "M. Alipaşa, Köse Sk. No:46, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7672037,
+                  "lng" : 29.95167319999999
+               },
+               "start_address" : "Kadıköy, Zümrüt Sk. No:24, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7660361,
+                  "lng" : 29.9468725
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.766017,
+                        "lng" : 29.947056
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eZümrüt Sk.\u003c/b\u003e toward \u003cb\u003eAktürk Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbywF}~wuDBe@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7660361,
+                        "lng" : 29.9468725
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 40.767631,
+                        "lng" : 29.9473763
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAktürk Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sbywFc`xuDaI_A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.766017,
+                        "lng" : 29.947056
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ulywFcbxuD@OP{@F}@Fk@TuANs@Fk@Fm@By@B{@?Q@}A?wAAi@Km@AG@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.767631,
+                        "lng" : 29.9473763
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbywF}~wuDBe@aI_ARkANiBd@iCNyAFuB?qFMu@@a@"
+         },
+         "summary" : "Aktürk Sk. and Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

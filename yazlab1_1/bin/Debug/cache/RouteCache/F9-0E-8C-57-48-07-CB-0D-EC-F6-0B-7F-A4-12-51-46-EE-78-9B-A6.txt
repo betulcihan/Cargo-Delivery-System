@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-x3cvuI9yhQRLSt9V8T-nhI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-x3cvuI9yhQRLSt9V8T-nhI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1872892,
+               "lng" : 29.0588883
+            },
+            "southwest" : {
+               "lat" : 40.1872892,
+               "lng" : 29.0588883
+            }
+         },
+         "copyrights" : "Map data ©2021 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Şehreküstü, Cemal Nadir Cd. No:9, 16050 Osmangazi/Bursa, Turkey",
+               "end_location" : {
+                  "lat" : 40.1872892,
+                  "lng" : 29.0588883
+               },
+               "start_address" : "Şehreküstü, Cemal Nadir Cd. No:9, 16050 Osmangazi/Bursa, Turkey",
+               "start_location" : {
+                  "lat" : 40.1872892,
+                  "lng" : 29.0588883
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1872892,
+                        "lng" : 29.0588883
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "qahtFaqjpD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1872892,
+                        "lng" : 29.0588883
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qahtFaqjpD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

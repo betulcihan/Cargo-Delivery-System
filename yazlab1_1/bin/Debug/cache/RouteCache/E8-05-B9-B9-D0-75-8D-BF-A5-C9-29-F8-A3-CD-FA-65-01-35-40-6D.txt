@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3zGu0ZJPyxQRCl6VngepkyM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7706716,
+               "lng" : 29.9505835
+            },
+            "southwest" : {
+               "lat" : 40.7671271,
+               "lng" : 29.9434739
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1033
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 207
+               },
+               "end_address" : "M. Alipaşa, Gazi Erdoğan Gürkan Cd. No:23, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7706716,
+                  "lng" : 29.9503664
+               },
+               "start_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.7684688,
+                        "lng" : 29.9435295
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e toward \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upywFuiwuDCAc@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 616
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671271,
+                        "lng" : 29.9505835
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}qywFajwuDF}@Fu@BMD_@Ns@D[Dw@Da@ZoCHk@\\eBL{@XwA@OP{@F}@Fk@TuANs@Fk@Fm@By@B{@?Q@}A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7684688,
+                        "lng" : 29.9435295
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 395
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.7706716,
+                        "lng" : 29.9503664
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGazi Erdoğan Gürkan Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qiywFcvxuDeKZaD?{CL"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671271,
+                        "lng" : 29.9505835
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upywFuiwuDg@KNsB^}BJyAd@{DfAiGP{@F}@\\aCV_BJgBBmA@}AeKZaD?{CL"
+         },
+         "summary" : "Bağdat Cd. and Gazi Erdoğan Gürkan Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

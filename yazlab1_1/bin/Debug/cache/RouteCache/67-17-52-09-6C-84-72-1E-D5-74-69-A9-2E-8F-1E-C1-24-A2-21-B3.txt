@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj7N1W2FFyxQRYISLd6sCYFM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmRp6cFFFyxQRLuA44EdJ0uY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7582981,
+               "lng" : 29.9695464
+            },
+            "southwest" : {
+               "lat" : 40.7483292,
+               "lng" : 29.94643259999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.2 km",
+                  "value" : 3192
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 387
+               },
+               "end_address" : "Karadenizliler, Uzun Sk. No:26, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7483292,
+                  "lng" : 29.9676252
+               },
+               "start_address" : "Sanayi, Ömer Türkçakal Blv. No:9, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.757467,
+                  "lng" : 29.94643259999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 583
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 40.7552697,
+                        "lng" : 29.9511478
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eKültürlü Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "emwwFe|wuDAw@EuCEsDAk@Eo@Gs@Gw@EcA?S?K@EBE@A@A@?BA~Bu@pAi@NIzBw@jAc@HEHGDENU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.757467,
+                        "lng" : 29.94643259999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 727
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 40.7570325,
+                        "lng" : 29.9575687
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHayrettin Uzun Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m_wwFuyxuDkDwDcDkFgBuD_BsCIMu@oBCKAC?C?E?C@GDMz@aBp@qAd@}@f@w@x@y@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7552697,
+                        "lng" : 29.9511478
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 583
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 40.7566038,
+                        "lng" : 29.9615115
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKorkmazlar Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mjwwFyazuDMYOWc@g@i@e@oAy@OMCCCE?EAEGgASsEBsCVu@h@wCBKPLJDnCt@LBTBNBN?JA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7570325,
+                        "lng" : 29.9575687
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1123
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.7489426,
+                        "lng" : 29.9695464
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eAtatürk Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wgwwFmzzuD@BBBBBB@B@B@B@B?D?D?BCDCBC@CBC@EBE@E?C@E?E?C?E?E?CAEXu@L]HOHKHKNMJMJM\\Yr@i@bBmAJKHGHGJETID?DADCBCBEBET[^a@b@a@^[~CsBnBiBPQPMtAiAdA{@n@k@@Ad@e@LMbAiAj@gAX_@h@w@j@kAP[R]lA{Al@cB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7566038,
+                        "lng" : 29.9615115
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.7483292,
+                        "lng" : 29.9676252
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUzun Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{wuwFul|uDPv@h@bC@BVjA\\xADX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7489426,
+                        "lng" : 29.9695464
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "emwwFe|wuDOmL[_F?_@DKHE~Bu@pAi@jCaAtAi@NMNUkDwDcDkFgBuDiBaDy@{BAQFUlBsDlAuBx@y@MYOWc@g@i@e@oAy@SQCKImASsEBsCVu@h@wCBKPLzCz@b@F^BJA@BFFFBPBHCHGJSBU?SV{@Vm@n@s@h@g@vCwBj@a@f@O`@k@bAcA~DoCnBiBb@_@lEsDr@s@bAiAj@gAX_@h@w@j@kAd@y@lA{Al@cBz@zDXnAb@rB"
+         },
+         "summary" : "Alsancak Cd./Kullar Cad.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

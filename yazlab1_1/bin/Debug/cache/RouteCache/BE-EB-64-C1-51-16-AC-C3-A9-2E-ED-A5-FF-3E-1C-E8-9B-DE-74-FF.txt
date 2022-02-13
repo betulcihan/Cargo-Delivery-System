@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBeDXG2RO0xQRy4CMcrLt6N8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBeDXG2RO0xQRy4CMcrLt6N8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9433813,
+               "lng" : 32.860088
+            },
+            "southwest" : {
+               "lat" : 39.9433813,
+               "lng" : 32.860088
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Hacı Bayram, Kevgirli Sk. No:47, 06050 Altındağ/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9433813,
+                  "lng" : 32.860088
+               },
+               "start_address" : "Hacı Bayram, Kevgirli Sk. No:47, 06050 Altındağ/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9433813,
+                  "lng" : 32.860088
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9433813,
+                        "lng" : 32.860088
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "cmxrFq~pgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9433813,
+                        "lng" : 32.860088
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cmxrFq~pgE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJCRBwRmdO0xQRhpi3EGWR81U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJCRBwRmdO0xQRhpi3EGWR81U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9393085,
+               "lng" : 32.8603231
+            },
+            "southwest" : {
+               "lat" : 39.9393085,
+               "lng" : 32.8603231
+            }
+         },
+         "copyrights" : "Map data ©2021 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Necatibey, Çıkrıkçılar Ykş. No:5, 06250 Altındağ/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9393085,
+                  "lng" : 32.8603231
+               },
+               "start_address" : "Necatibey, Çıkrıkçılar Ykş. No:5, 06250 Altındağ/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9393085,
+                  "lng" : 32.8603231
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9393085,
+                        "lng" : 32.8603231
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKonya Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uswrF_`qgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9393085,
+                        "lng" : 32.8603231
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uswrF_`qgE"
+         },
+         "summary" : "Konya Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

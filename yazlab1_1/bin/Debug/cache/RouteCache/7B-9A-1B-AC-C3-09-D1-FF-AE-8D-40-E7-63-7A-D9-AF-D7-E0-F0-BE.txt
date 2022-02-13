@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_3KV8zNOyxQRqcddhRrM320",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1c5VdktPyxQRPk5JdoMsuqc",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7986505,
+               "lng" : 29.957034
+            },
+            "southwest" : {
+               "lat" : 40.7942573,
+               "lng" : 29.9535441
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 669
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 105
+               },
+               "end_address" : "Gündoğdu, Zübeyde Hanım Cd. No:214, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7942573,
+                  "lng" : 29.9546846
+               },
+               "start_address" : "Gündoğdu Mh., Uzun Sk. No:80, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7986505,
+                  "lng" : 29.957034
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.7984187,
+                        "lng" : 29.95606909999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eUzun Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qn_xFm~yuD@JHl@Fj@Ll@Jj@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7986505,
+                        "lng" : 29.957034
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.79771179999999,
+                        "lng" : 29.9554136
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eUzun Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "cm_xFmxyuDlCbC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7984187,
+                        "lng" : 29.95606909999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7957423,
+                        "lng" : 29.9535441
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTürk Yılmaz Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "uh_xFityuD`@FD@\\J`@NVHj@\\VT@?JNJPHPJXLd@RPHJb@j@f@r@\\^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79771179999999,
+                        "lng" : 29.9554136
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.7955359,
+                        "lng" : 29.9541455
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eManidar Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k|~wFshyuD\\wAHa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7957423,
+                        "lng" : 29.9535441
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.7953924,
+                        "lng" : 29.9541221
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHızır Reis Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c{~wFmlyuD\\D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7955359,
+                        "lng" : 29.9541455
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 40.7943064,
+                        "lng" : 29.9545895
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGençoğlu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ez~wFglyuDh@S`@ObA]@?NENKd@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7953924,
+                        "lng" : 29.9541221
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.7942573,
+                        "lng" : 29.9546846
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eZübeyde Hanım Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ms~wFeoyuDHQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7943064,
+                        "lng" : 29.9545895
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qn_xFm~yuDJx@TxAJj@lCbCf@H~@ZVHj@\\XTV`@Tj@Ld@RPl@v@f@r@\\^f@yB\\Dh@SdBm@PENKd@IHQ"
+         },
+         "summary" : "Uzun Sk. and Türk Yılmaz Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

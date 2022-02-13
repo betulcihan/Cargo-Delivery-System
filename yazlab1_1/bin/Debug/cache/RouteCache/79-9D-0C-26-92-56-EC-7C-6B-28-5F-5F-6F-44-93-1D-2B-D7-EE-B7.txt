@@ -1,0 +1,95 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN0OWqiBQyxQRiY4fGH5XBew",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN0OWqiBQyxQRiY4fGH5XBew",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7764682,
+               "lng" : 29.9749532
+            },
+            "southwest" : {
+               "lat" : 40.7764682,
+               "lng" : 29.9749532
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yahyakaptan, Izmit Şehirlerarasi Otobüs Terminali, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7764682,
+                  "lng" : 29.9749532
+               },
+               "start_address" : "Yahyakaptan, Izmit Şehirlerarasi Otobüs Terminali, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7764682,
+                  "lng" : 29.9749532
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7764682,
+                        "lng" : 29.9749532
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİzmit Otogarı İç Yolu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}c{wFmn}uD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7764682,
+                        "lng" : 29.9749532
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}c{wFmn}uD"
+         },
+         "summary" : "İzmit Otogarı İç Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

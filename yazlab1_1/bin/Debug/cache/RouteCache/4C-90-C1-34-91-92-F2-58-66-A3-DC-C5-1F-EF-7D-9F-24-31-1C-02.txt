@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYWAmpo5PyxQRTbCy649FjAo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHwji2Y5PyxQR5e8hsLNIrfw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7670315,
+               "lng" : 29.9448512
+            },
+            "southwest" : {
+               "lat" : 40.7665127,
+               "lng" : 29.9425095
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 246
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 86
+               },
+               "end_address" : "Kadıköy, Çimen Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7670315,
+                  "lng" : 29.9425095
+               },
+               "start_address" : "Kadıköy, Güvercin Sk. No:25, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7665127,
+                  "lng" : 29.9447518
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7669441,
+                        "lng" : 29.9448512
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eGüvercin Sk.\u003c/b\u003e toward \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ueywFuqwuDuAS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7665127,
+                        "lng" : 29.9447518
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 197
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670315,
+                        "lng" : 29.9425095
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eÇimen Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "khywFirwuDChAAjAC~@CxBAf@AhA?P"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7669441,
+                        "lng" : 29.9448512
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ueywFuqwuDuASChAEjCG|F"
+         },
+         "summary" : "Çimen Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

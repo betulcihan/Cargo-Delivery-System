@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJl29U2odPyxQRKNJKqgmfSL0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJl29U2odPyxQRKNJKqgmfSL0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7645033,
+               "lng" : 29.9391528
+            },
+            "southwest" : {
+               "lat" : 40.7645033,
+               "lng" : 29.9391528
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Berk Sk. No:12, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7645033,
+                  "lng" : 29.9391528
+               },
+               "start_address" : "Körfez, Berk Sk. No:12, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645033,
+                  "lng" : 29.9391528
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645033,
+                        "lng" : 29.9391528
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBerk Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cyxwFunvuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645033,
+                        "lng" : 29.9391528
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cyxwFunvuD"
+         },
+         "summary" : "Berk Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,179 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLXfdmOxPyxQRKE2MBKmg26E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJeQ2-zmZFyxQRCU_Ygk9yGVU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7726463,
+               "lng" : 29.9526352
+            },
+            "southwest" : {
+               "lat" : 40.7552998,
+               "lng" : 29.9401611
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2868
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 493
+               },
+               "end_address" : "Sanayi, Ömer Türkçakal Blv. No:25, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7552998,
+                  "lng" : 29.9469091
+               },
+               "start_address" : "M. Alipaşa, Turan Güneş Cd. No:244, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7726463,
+                  "lng" : 29.9526352
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1163
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 251
+                     },
+                     "end_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e toward \u003cb\u003eBayram Aslan Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "alzwF_cyuDN~AFfADb@RjB@pAHPRb@R`@R`@Pf@lAbCXp@Xl@j@fAh@j@X\\\\b@z@dALNJLLPN^Lf@@VDj@@X?J?FGt@KdACj@AX@ZBr@Bb@Hf@Np@ZjBVjCFXPf@n@rBX~@l@bDj@fB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7726463,
+                        "lng" : 29.9526352
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}rywF_wvuDFPJl@n@AfAQ@?TGREj@CXAv@@J@bBAx@ATA^Al@MXI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 580
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_`ywFcwvuDt@WLMPKLA@?PCdAChCCnACH?b@AvAIZCFATAHAJ?FAF?B?B?n@?x@?N?D?VAN?`ACb@Cz@Cx@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 511
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7567465,
+                        "lng" : 29.9445572
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u_xwFyzvuDzA]NIj@e@XMRM`BiAb@[vBqBfBcCLQz@eAV[^g@Zk@Tg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 40.7552998,
+                        "lng" : 29.9469091
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "uhwwFopwuDPKNQZk@N[j@iA\\q@j@kARa@HQVk@f@gA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7567465,
+                        "lng" : 29.9445572
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "alzwF_cyuDVfDXnC@pAHPf@dAd@hAfBtDdAtBbAhArBfC\\p@Lf@@VFdA?RSzBEdADnALjAj@|C^dD`AzCX~@l@bDr@xBJl@n@AhAQh@MdAEbAB|CCt@CfAWt@WLM^MRChHKrEWfDApDKtCi@z@o@l@[dCeBvBqBfBcChAwAv@cAp@sA`@]j@gAhCiFhAeC"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

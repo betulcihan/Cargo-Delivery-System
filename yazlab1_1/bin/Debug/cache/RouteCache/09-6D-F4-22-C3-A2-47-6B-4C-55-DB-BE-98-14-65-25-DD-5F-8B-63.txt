@@ -1,0 +1,274 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJO-n1r_FPyxQRsqeYNf6F6Bw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7682742,
+               "lng" : 29.9587708
+            },
+            "southwest" : {
+               "lat" : 40.763394,
+               "lng" : 29.9420884
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 1999
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 406
+               },
+               "end_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "start_address" : "M. Alipaşa, Erdem Sk. No:51, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7646656,
+                  "lng" : 29.9587708
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646666,
+                        "lng" : 29.9585647
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBelinay Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ezxwFiizuD?h@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646656,
+                        "lng" : 29.9587708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635903,
+                        "lng" : 29.958536
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ezxwF_hzuD~BCvAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646666,
+                        "lng" : 29.9585647
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "msxwF{gzuDIpAGtAAZAN?@AN?NAN@X"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635903,
+                        "lng" : 29.958536
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 761
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645782,
+                        "lng" : 29.9483872
+                     },
+                     "html_instructions" : "\u003cb\u003eDemokrasi Cd.\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "etxwF{~yuDAD@H@FBDBFDDFFNLFHHPBP@ZCj@G~@IrA_A`M}@~LGh@iAzLCNCH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651639,
+                        "lng" : 29.94848859999999
+                     },
+                     "html_instructions" : "\u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eEsendal Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "syxwFmhxuDIBIAOA}@MQE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645782,
+                        "lng" : 29.9483872
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 543
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 40.7656993,
+                        "lng" : 29.9420884
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g}xwFaixuDQzCa@zHE`AUnFQxGCz@?FEvC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651639,
+                        "lng" : 29.94848859999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGelibolu Sk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s`ywFaawuDcAE{@CgBQK?K@?@AAA?A?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7656993,
+                        "lng" : 29.9420884
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "html_instructions" : "\u003cb\u003eGelibolu Sk\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yhywF{awuDAA?AACAC?G@w@@iA@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yhywFygwuDsBWQAs@Oc@I]G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ezxwFiizuD?h@~BCvAFIpAIpBAPAhA?NDLHLVTPZDl@KjBiAtOeAhNmAjMCHIBYCoASs@vM[pHUtIE~C_CIsBQKBEAEKDqDeCYwAY]G"
+         },
+         "summary" : "Şht. Rafet Karacan Blv and Atatürk Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

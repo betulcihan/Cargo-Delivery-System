@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2ePjm4BEyxQRBNF2fyU6VDk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2ePjm4BEyxQRBNF2fyU6VDk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.6954003,
+               "lng" : 29.9288128
+            },
+            "southwest" : {
+               "lat" : 40.6954003,
+               "lng" : 29.9288128
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Barbaros, Gülden Sk. No:3, 41090 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.6954003,
+                  "lng" : 29.9288128
+               },
+               "start_address" : "Barbaros, Gülden Sk. No:3, 41090 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.6954003,
+                  "lng" : 29.9288128
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.6954003,
+                        "lng" : 29.9288128
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKahramanlar Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gikwFantuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6954003,
+                        "lng" : 29.9288128
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gikwFantuD"
+         },
+         "summary" : "Kahramanlar Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

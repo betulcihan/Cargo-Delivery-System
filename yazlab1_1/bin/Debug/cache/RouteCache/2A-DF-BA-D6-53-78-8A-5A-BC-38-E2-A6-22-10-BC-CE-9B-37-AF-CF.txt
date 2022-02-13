@@ -1,0 +1,276 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJO4pmHYdPyxQRfrFRwb2hk4I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJWQjSAIhPyxQRmDfEIXCeQ9s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7660837,
+               "lng" : 29.9438458
+            },
+            "southwest" : {
+               "lat" : 40.7625765,
+               "lng" : 29.9352566
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1575
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 332
+               },
+               "end_address" : "Körfez, Hafız Binbaşı Cd. No:7, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.763236,
+                  "lng" : 29.9399935
+               },
+               "start_address" : "Cedit, Bostanlar Sk. No:15, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7659334,
+                  "lng" : 29.9352566
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBostanlar Sk.\u003c/b\u003e toward \u003cb\u003eAziz Yıldız Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "abywFkvuuD?]BmB@u@A_@QiBOiA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7659334,
+                        "lng" : 29.9352566
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHalit Molla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_cywFacvuD~Du@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.765048,
+                        "lng" : 29.9371446
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_}xwFwdvuDLrA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651087,
+                        "lng" : 29.9392456
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCengiz Topel Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "q|xwFcbvuDl@MMuAQyAKcAEkBGw@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.765048,
+                        "lng" : 29.9371446
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 40.7652605,
+                        "lng" : 29.9420839
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|xwFiovuDe@eFA]CM?k@@sA?SFgBBg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651087,
+                        "lng" : 29.9392456
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.7650592,
+                        "lng" : 29.9437795
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{}xwF_awuDFkBPaCLeB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7652605,
+                        "lng" : 29.9420839
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 266
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.7626718,
+                        "lng" : 29.9438458
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s|xwFskwuDlC?tBC`A?HCHAd@AN?D?fAA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7650592,
+                        "lng" : 29.9437795
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 306
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.7625765,
+                        "lng" : 29.9402178
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eİstanbul İzmit Yanyolu\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umxwFalwuD?~@BlBBz@?JAf@@nAD|D?n@BxB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7626718,
+                        "lng" : 29.9438458
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.763236,
+                        "lng" : 29.9399935
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "cmxwFkuvuDKb@GLEJSTk@IKCIEKIGG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7625765,
+                        "lng" : 29.9402178
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "abywFkvuuDBkC?uAa@sD~Du@LrAl@MMuA]}CEkBGw@g@cGCy@@gBJoCFkBPaCLeBlC?vDCREt@AlAABlDB~DDlFBxBKb@MXSTk@IUISQ"
+         },
+         "summary" : "İstanbul İzmit Yanyolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

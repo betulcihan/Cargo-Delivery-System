@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSVksVX1FyxQRIsdHfWBek5Q",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSVksVX1FyxQRIsdHfWBek5Q",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7626216,
+               "lng" : 29.9394903
+            },
+            "southwest" : {
+               "lat" : 40.7626216,
+               "lng" : 29.9394903
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, İstanbul İzmit Yanyolu No:83, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7626216,
+                  "lng" : 29.9394903
+               },
+               "start_address" : "Körfez, İstanbul İzmit Yanyolu No:83, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7626216,
+                  "lng" : 29.9394903
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7626216,
+                        "lng" : 29.9394903
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "kmxwFypvuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7626216,
+                        "lng" : 29.9394903
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kmxwFypvuD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

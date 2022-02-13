@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJH8b85OtPyxQRk5YVSGbTiQc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJRPzNpJPyxQRT-OLYNk7U1U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.772808,
+               "lng" : 29.9561826
+            },
+            "southwest" : {
+               "lat" : 40.7715558,
+               "lng" : 29.9463969
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1038
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 248
+               },
+               "end_address" : "Erenler, Kanlıbağ Sk. No:32, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7721674,
+                  "lng" : 29.9463969
+               },
+               "start_address" : "Yenişehir, Turan Güneş Cd. No:268, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7726452,
+                  "lng" : 29.9561826
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 639
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 143
+                     },
+                     "end_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e toward \u003cb\u003eŞht. Kazım Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "alzwFcyyuDFPb@|AFx@?VATETI^c@fCGRGXIVCT?XP|AFl@TjCFfADb@RjB@pAHPRb@R`@R`@Pf@lAbC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7726452,
+                        "lng" : 29.9561826
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.7722024,
+                        "lng" : 29.9491683
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEski İstanbul Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "gezwFomxuDIHGFGDGBKDG?C?EAECy@U"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.772009,
+                        "lng" : 29.9475067
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTürbebayırı Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gizwFimxuD@RFl@Fl@@JJpALbA?PCTCP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7722024,
+                        "lng" : 29.9491683
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7727319,
+                        "lng" : 29.9468928
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSinan Ykş. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ahzwF}bxuDa@PIB_@XEDUTEBa@j@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.772009,
+                        "lng" : 29.9475067
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.7721674,
+                        "lng" : 29.9463969
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKanlıbağ Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qlzwFa_xuD\\p@Z?b@ZPR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7727319,
+                        "lng" : 29.9468928
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "alzwFcyyuDj@nBFx@?VGj@m@fD]zA?XP|A\\xDLjBRjB@pA\\t@f@bAPf@lAbCQPOHSDiA[RzBXtCCf@CPa@Pi@\\[Zg@n@\\p@Z?b@ZPR"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

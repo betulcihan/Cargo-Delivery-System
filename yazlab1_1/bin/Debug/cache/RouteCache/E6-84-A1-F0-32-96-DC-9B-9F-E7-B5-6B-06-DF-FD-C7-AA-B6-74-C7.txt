@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ56x2tY1PyxQRdnFlYZAtbWM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7684688,
+               "lng" : 29.9465642
+            },
+            "southwest" : {
+               "lat" : 40.7678549,
+               "lng" : 29.9434739
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 287
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 73
+               },
+               "end_address" : "Cumhuriyet, Bağdat Cd. NO:74/A, 41455 Dilovası/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7678549,
+                  "lng" : 29.9465642
+               },
+               "start_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.7684688,
+                        "lng" : 29.9435295
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e toward \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upywFuiwuDCAc@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 40.7678549,
+                        "lng" : 29.9465642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}qywFajwuDF}@Fu@BMD_@Ns@D[Dw@Da@ZoCHk@XuA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7684688,
+                        "lng" : 29.9435295
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upywFuiwuDg@KNsB^}BJyAd@{DXuA"
+         },
+         "summary" : "Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

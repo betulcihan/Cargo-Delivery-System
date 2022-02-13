@@ -1,0 +1,228 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnZZ5tvhFyxQRmQ0H1zeozsY",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdVnJEGFFyxQR1qUjB0VDSv0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7646479,
+               "lng" : 29.9493282
+            },
+            "southwest" : {
+               "lat" : 40.7538096,
+               "lng" : 29.9398598
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 km",
+                  "value" : 2329
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 280
+               },
+               "end_address" : "Sanayi, Unnamed Road, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7573794,
+                  "lng" : 29.9465703
+               },
+               "start_address" : "körfez mahallesi, Berk Sk. no:8 A blok Kavşut Apt. K:2 D:5, Körfez, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645652,
+                  "lng" : 29.9398598
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBerk Sk.\u003c/b\u003e toward \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qyxwFcsvuDO{D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645652,
+                        "lng" : 29.9398598
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 470
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "azxwF_yvuDhCCnACH?b@AvAIZCFATAHAJ?FAF?B?B?n@?x@?N?D?VAN?`ACb@Cz@Cx@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 511
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7567465,
+                        "lng" : 29.9445572
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u_xwFyzvuDzA]NIj@e@XMRM`BiAb@[vBqBfBcCLQz@eAV[^g@Zk@Tg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 492
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 40.7538489,
+                        "lng" : 29.9489116
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "uhwwFopwuDPKNQZk@N[j@iA\\q@j@kARa@HQVk@fB{D^u@JUJUn@eAXa@XYRSZUTM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7567465,
+                        "lng" : 29.9445572
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 468
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.7564061,
+                        "lng" : 29.9454992
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "qvvwFukxuDDO@E?E?C?EAEAGEKCGGGCCGBsArAk@p@{@rAwAdD]h@GLk@pA]r@c@`As@dBIR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7538489,
+                        "lng" : 29.9489116
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.7572231,
+                        "lng" : 29.9444632
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qfwwFkvwuDIDCBGJU`@{@dBMTEJA@EBIFG@K?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7564061,
+                        "lng" : 29.9454992
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.7573794,
+                        "lng" : 29.9465703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "skwwF{owuDO}DCi@GsBCiA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7572231,
+                        "lng" : 29.9444632
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qyxwFcsvuDO{DhCCxAC~CQr@E~@?fBApDKtCi@z@o@l@[dCeBvBqBfBcChAwAv@cAp@sA`@]j@gAhCiFhDoHVk@hAgBl@m@p@c@F_@I_@KOCCGB_CdC{@rAwAdDe@v@iAdCwAfDIRIDKNqAfC[f@QHK?O}DK}CCiA"
+         },
+         "summary" : "Ömer Türkçakal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

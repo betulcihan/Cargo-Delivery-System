@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBSsC1ohPyxQRUWCNNH5a--I",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXdraxfJPyxQRpuYD4butTGk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7678332,
+               "lng" : 29.95167319999999
+            },
+            "southwest" : {
+               "lat" : 40.76609699999999,
+               "lng" : 29.9421963
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 978
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 239
+               },
+               "end_address" : "M. Alipaşa, Köse Sk. No:46, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7672037,
+                  "lng" : 29.95167319999999
+               },
+               "start_address" : "Kadıköy, Gelibolu Sk No:6, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7663428,
+                  "lng" : 29.9421963
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 346
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 40.76609699999999,
+                        "lng" : 29.9462878
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eZümrüt Sk.\u003c/b\u003e toward \u003cb\u003eGüvercin Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sdywFwawuDBsCT{IBiDPwC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7663428,
+                        "lng" : 29.9421963
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.7678332,
+                        "lng" : 29.9466412
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOkur Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ccywFi{wuDyIeA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76609699999999,
+                        "lng" : 29.9462878
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 437
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}mywFo}wuDL{@XwA@OP{@F}@Fk@TuANs@Fk@Fm@By@B{@?Q@}A?wAAi@Km@AG@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7678332,
+                        "lng" : 29.9466412
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sdywFwawuDXoNBiDPwCyIeAL{@ZgBP{@F}@\\aCV_BJgBBmA@uDAi@Km@?i@"
+         },
+         "summary" : "Zümrüt Sk. and Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

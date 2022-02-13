@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnZZ5tvhFyxQRmQ0H1zeozsY",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-4XpYpPyxQR9KXI9mNA_sI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7646479,
+               "lng" : 29.949928
+            },
+            "southwest" : {
+               "lat" : 40.7603105,
+               "lng" : 29.9398598
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1656
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 247
+               },
+               "end_address" : "Körfez, Şht. Basri Sk. No:23, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7604932,
+                  "lng" : 29.949928
+               },
+               "start_address" : "körfez mahallesi, Berk Sk. no:8 A blok Kavşut Apt. K:2 D:5, Körfez, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645652,
+                  "lng" : 29.9398598
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBerk Sk.\u003c/b\u003e toward \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qyxwFcsvuDO{D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645652,
+                        "lng" : 29.9398598
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 470
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "azxwF_yvuDhCCnACH?b@AvAIZCFATAHAJ?FAF?B?B?n@?x@?N?D?VAN?`ACb@Cz@Cx@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.761277,
+                        "lng" : 29.9404501
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e2. Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_xwFyzvuDFHFFBD@D@F?D?HAFCDEBKF]HqAXK@a@FK@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.7614579,
+                        "lng" : 29.9406193
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_exwFyvvuDc@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.761277,
+                        "lng" : 29.9404501
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 757
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 40.7620944,
+                        "lng" : 29.9495372
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cfxwF{wvuDHaBAQW{AGUCsAAgAA}@SmIC{@?y@CcAImBEiAAYASIgCCi@?CIiCUiG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7614579,
+                        "lng" : 29.9406193
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604932,
+                        "lng" : 29.949928
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVali Eşref Cd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ajxwFsoxuDpAMfAY`BWbAM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7620944,
+                        "lng" : 29.9495372
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qyxwFcsvuDO{DhCCxAC~CQr@E~@?fBApDKx@KFHJLB\\ELQJoBb@m@HK@c@a@FsB_@qBE{CUkKCuBUuGOiE_@sKpAMfAYdDe@"
+         },
+         "summary" : "Sanayi Cd. and Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

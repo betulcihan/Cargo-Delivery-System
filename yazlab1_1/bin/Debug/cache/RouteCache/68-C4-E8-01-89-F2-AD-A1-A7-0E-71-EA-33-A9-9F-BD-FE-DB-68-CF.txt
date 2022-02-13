@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ06FZbQBP0xQRYGBWOdFnhWc",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ06FZbQBP0xQRYGBWOdFnhWc",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9306268,
+               "lng" : 32.8713948
+            },
+            "southwest" : {
+               "lat" : 39.9306268,
+               "lng" : 32.8713948
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Erzurum, Cebeci Pazarı Çocuk Parkı, Geçim Sk. No:4, 06590 Çankaya/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9306268,
+                  "lng" : 32.8713948
+               },
+               "start_address" : "Erzurum, Cebeci Pazarı Çocuk Parkı, Geçim Sk. No:4, 06590 Çankaya/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9306268,
+                  "lng" : 32.8713948
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9306268,
+                        "lng" : 32.8713948
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eGeçim Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m}urFeesgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9306268,
+                        "lng" : 32.8713948
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m}urFeesgE"
+         },
+         "summary" : "Geçim Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

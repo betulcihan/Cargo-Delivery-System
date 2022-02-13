@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX9pw6O9PyxQRZLzFsMh3btI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW_ERNfJPyxQRiIruuRY_kPc",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7664531,
+               "lng" : 29.9613008
+            },
+            "southwest" : {
+               "lat" : 40.7635238,
+               "lng" : 29.9552058
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 919
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 215
+               },
+               "end_address" : "M. Alipaşa, Bağdat Cd. No:249, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7651382,
+                  "lng" : 29.9552058
+               },
+               "start_address" : "Yenişehir, Altaylı Sk. No:7, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7664531,
+                  "lng" : 29.9612161
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.7658839,
+                        "lng" : 29.9613008
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eBurcu Sk\u003c/b\u003e toward \u003cb\u003eBanu Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ieywFsxzuDpBO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7664531,
+                        "lng" : 29.9612161
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.765756,
+                        "lng" : 29.9597069
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBanu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "waywFcyzuD@r@DfCFxAFf@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7658839,
+                        "lng" : 29.9613008
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635944,
+                        "lng" : 29.9599763
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eArda Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_aywFeozuD`@K\\UHEp@a@XINCnBJzCT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.765756,
+                        "lng" : 29.9597069
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "msxwF{pzuDLzBATKlCIpAGtAAZAN?@AN?NAN@X"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635944,
+                        "lng" : 29.9599763
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651382,
+                        "lng" : 29.9552058
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "etxwF{~yuD]b@IP]fA}BpCm@r@k@t@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ieywFsxzuDpBO@r@L`FFf@`@Kf@[p@a@XINCnBJzCTLzBMbDUrECp@@X]b@g@xAkDdEk@t@"
+         },
+         "summary" : "Arda Sk. and Demokrasi Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

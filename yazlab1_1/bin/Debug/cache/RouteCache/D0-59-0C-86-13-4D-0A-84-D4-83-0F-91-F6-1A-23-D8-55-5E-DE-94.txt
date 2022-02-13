@@ -1,0 +1,203 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJty4T-1tO0xQRtlNEQXPYaxs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh3eNyE9O0xQRiy1d6PvzNYM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.93335870000001,
+               "lng" : 32.8661333
+            },
+            "southwest" : {
+               "lat" : 39.922831,
+               "lng" : 32.8591206
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1718
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 291
+               },
+               "end_address" : "Ön Cebeci, Umut Sk. No:11, 06590 Çankaya/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.925674,
+                  "lng" : 32.8661333
+               },
+               "start_address" : "Hacettepe, A.Adnan Saygun Cd, Altındağ/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.93335870000001,
+                  "lng" : 32.8597121
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 517
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 39.9288,
+                        "lng" : 32.8595339
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eA.Adnan Saygun Cd\u003c/b\u003e toward \u003cb\u003eKızılay Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "onvrFe|pgEHCd@K^GXENC^Al@CjBMpBIPAPA~BGT?R?XB`@Fh@LrBf@HDLDh@`@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.93335870000001,
+                        "lng" : 32.8597121
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 39.9272307,
+                        "lng" : 32.8591249
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eA.Adnan Saygun Cd\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "_rurFa{pgE@FBFBDDDFBB@D@BAHAvAJhDb@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9288,
+                        "lng" : 32.8595339
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 441
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 39.9241409,
+                        "lng" : 32.8622878
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eAksu Cd.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ehurFoxpgEN?HCFCDCFGFKZg@Ra@^i@b@m@b@i@LO|CcD`EoDj@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9272307,
+                        "lng" : 32.8591249
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 39.922831,
+                        "lng" : 32.8634538
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMahmut Esat Bozkurt Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{ttrFilqgEFGDGt@w@PQjBcBd@]\\K"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9241409,
+                        "lng" : 32.8622878
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 39.9254222,
+                        "lng" : 32.8657407
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eServi Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ultrFqsqgEGi@IOIMIO{@_Am@m@s@m@iH}DKGKO"
+                     },
+                     "start_location" : {
+                        "lat" : 39.922831,
+                        "lng" : 32.8634538
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 39.925674,
+                        "lng" : 32.8661333
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eUmut Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{|trF{argEq@mA"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9254222,
+                        "lng" : 32.8657407
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "onvrFe|pgEhB]hEWbCKpCIh@?z@J|Ct@VJh@`@@FFLLHHBLCvAJhDb@V@PGLKb@s@r@kAfAwAjDsDlFyEtAyAjBcBd@]\\KGi@S]eAoAaB{AuHeE}@}A"
+         },
+         "summary" : "A.Adnan Saygun Cd and Aksu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJif_-WuG5yhQRGBh4AqaEmdc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJif_-WuG5yhQRGBh4AqaEmdc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0297107,
+               "lng" : 28.97119
+            },
+            "southwest" : {
+               "lat" : 41.0297107,
+               "lng" : 28.97119
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Bedrettin, İaşe Sk. No:8, 34440 Beyoğlu/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0297107,
+                  "lng" : 28.97119
+               },
+               "start_address" : "Bedrettin, İaşe Sk. No:8, 34440 Beyoğlu/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0297107,
+                  "lng" : 28.97119
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.0297107,
+                        "lng" : 28.97119
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eTarihi Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "urlyF}lyoD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0297107,
+                        "lng" : 28.97119
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "urlyF}lyoD"
+         },
+         "summary" : "Tarihi Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

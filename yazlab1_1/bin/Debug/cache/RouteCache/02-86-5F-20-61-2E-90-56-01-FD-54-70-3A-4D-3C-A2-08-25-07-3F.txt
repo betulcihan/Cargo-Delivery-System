@@ -1,0 +1,395 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJw_wzZRNEyxQRBM9fhF_zyx4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7682742,
+               "lng" : 29.94950469999999
+            },
+            "southwest" : {
+               "lat" : 40.710398,
+               "lng" : 29.9014226
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "9.8 km",
+                  "value" : 9828
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 803
+               },
+               "end_address" : "Seymen Mh., Eski Bağdat Cd No:1, 41245 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7135983,
+                  "lng" : 29.902318
+               },
+               "start_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e toward \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upywFuiwuD\\Fb@Hr@NP@rBV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yhywFygwuDAf@AhAAv@?F@B@B?@@@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7656993,
+                        "lng" : 29.9420884
+                     },
+                     "html_instructions" : "\u003cb\u003eÇimen Sk.\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eGelibolu Sk\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yhywF{awuD@?@?@@?AJAJ?fBPz@BbAD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7656088,
+                        "lng" : 29.9407299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s`ywFaawuDB^FlBDpB?N"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7656993,
+                        "lng" : 29.9420884
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 600
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a`ywFqxvuD@l@t@WLMPKLA@?PCdAChCCnACH?b@AvAIZCFATAHAJ?FAF?B?B?n@?x@?N?D?VAN?`ACb@Cz@Cx@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7656088,
+                        "lng" : 29.9407299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 km",
+                        "value" : 4729
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 293
+                     },
+                     "end_location" : {
+                        "lat" : 40.7221279,
+                        "lng" : 29.9384072
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u_xwFyzvuDzA]NIj@e@XMRM`BiAb@[vBqBfBcCLQz@eAV[^g@Zk@Tg@zFyLHSjCaGjAiB~@{@\\Ub@Yt@Yb@KRE`AId@?X?\\DL@j@H`AXn@Xh@VjDhB~CfBfBbA|Az@vC`B|CdBz@`@^VFBn@`@l@\\HDdB`AdB`AnBfAzBjAjAn@NL~@f@~BlA`Af@^RnBbAn@Rd@HvC^lAR~B^D@`Er@~@JpATTB\\DTBV?tE@lDG|@@|A@rDCxD@~I?tBLpATnE|@~@TrE|A`@NdDhAlBn@n@TPF`@L`Cz@lC|@|Ah@fDhAZJNDRBJA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604342,
+                        "lng" : 29.9410922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 320
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.7195675,
+                        "lng" : 29.9370384
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eGölcük\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eKaramUrsel\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eYalova\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "ippwFajvuDfA`@ZTPLJLPTNPTNd@Lj@AVELAv@?@?TFJFLFbBhB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7221279,
+                        "lng" : 29.9384072
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 km",
+                        "value" : 2831
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 40.7110432,
+                        "lng" : 29.9069961
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eİzmit Yalova Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD130\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eE881\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "i`pwFoavuDlAlA|BpB^Xb@ZRNPNn@b@bAr@pAfAlAnArAzAbA~Al@tAtAjDHXXlAj@hCh@`Eh@lEHh@\\fBLv@PlARnAZrBFb@tAnHLlAJhA?HHlAD~B@fA?jAH~CLhFJxDFxCThL?DDtCBn@Bp@Bl@H|ADf@Fl@TfBNjAF`@b@rCVtAj@tDbAhHXzCN|AHn@^xDBP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7195675,
+                        "lng" : 29.9370384
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 305
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.7104367,
+                        "lng" : 29.90349729999999
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eBeylik Cd.\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "_knwFwepuDEJ?DAN@TDf@LpAh@bFLnA@@LjARtALp@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7110432,
+                        "lng" : 29.9069961
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 261
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7122278,
+                        "lng" : 29.9019444
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eBeylik Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ggnwF{oouD?B?@?@?B?@@@?B?@?@@B?@?@@@?B?@@@gA`BSZ}@fAEBGBCBIBKBQFGBq@Pa@LI@UDG@C?G?IA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7104367,
+                        "lng" : 29.90349729999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7124542,
+                        "lng" : 29.9016508
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHarbiş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrnwFcfouD_@\\CDCDAFAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7122278,
+                        "lng" : 29.9019444
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7133103,
+                        "lng" : 29.9015609
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ysnwFidouDQGOAG?K?K@YDQDI@]FO@E@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7124542,
+                        "lng" : 29.9016508
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.7138315,
+                        "lng" : 29.9014226
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "eynwFwcouD[Hk@F_@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7133103,
+                        "lng" : 29.9015609
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.7135983,
+                        "lng" : 29.902318
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m|nwF{bouDSkCFYx@M"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7138315,
+                        "lng" : 29.9014226
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upywFuiwuDfCb@rBVAf@C`CBPD@XAbDTbADB^L~E@|@t@WLM^MRCnEGxACzBKbAI^A|B?nBE~AGtCi@z@o@l@[dCeBvBqBfBcChAwAv@cAp@sAdGmMjCaGjAiB~@{@\\Ub@Yt@Yv@QfBIv@Dx@J`AXn@XtE`CfGjDtF|CxEfCdCzAdIpEvGpDpIlEn@Rd@HdFr@fK`BzCb@lF@jFEpGAxO@tBLpATnGrAhOfFtSdHb@HJAfA`@l@b@\\b@NPTNd@Lj@Ad@Gx@?`@NLFbBhBlAlA|BpBbAt@xCvBpAfAlAnArAzAbA~AbC`Gb@fBj@hCh@`Er@vFj@~Cd@|Cb@vCtAnHLlAJrAHlAD~B@rCVhKRrITnLPdHNdC\\tCVlBz@hFnB~Mh@xFh@hFBPEJATF|@fAfK`@`DLt@?HDR@F{A|BcAjAUJwA`@k@N]FK?IA_@\\GJCNQGWAW@k@J}@LgAP_@HSkCFYx@M"
+         },
+         "summary" : "Ömer Türkçakal Blv. and İzmit Yalova Yolu/D130/E881",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

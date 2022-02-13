@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ56x2tY1PyxQRdnFlYZAtbWM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7682742,
+               "lng" : 29.9466412
+            },
+            "southwest" : {
+               "lat" : 40.76609699999999,
+               "lng" : 29.9421425
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 850
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 250
+               },
+               "end_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "start_address" : "Cumhuriyet, Bağdat Cd. NO:74/A, 41455 Dilovası/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7678549,
+                  "lng" : 29.9465642
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.7678332,
+                        "lng" : 29.9466412
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBağdat Cd.\u003c/b\u003e toward \u003cb\u003eOkur Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "anywF_}wuDBO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7678549,
+                        "lng" : 29.9465642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 40.76609699999999,
+                        "lng" : 29.9462878
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOkur Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}mywFo}wuDxIdA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7678332,
+                        "lng" : 29.9466412
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 350
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.7663447,
+                        "lng" : 29.9421425
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eZümrüt Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ccywFi{wuDQvCChDUzIC~C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76609699999999,
+                        "lng" : 29.9462878
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGelibolu Sk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sdywFkawuDgBQK?K@?@AAA?A?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7663447,
+                        "lng" : 29.9421425
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "html_instructions" : "\u003cb\u003eGelibolu Sk\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yhywF{awuDAA?AACAC?G@w@@iA@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670089,
+                        "lng" : 29.9422223
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yhywFygwuDsBWQAs@Oc@I]G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "anywF_}wuDBOxIdAQvCChDYzNsBQO@CCCG@_ABqBeCYuBa@"
+         },
+         "summary" : "Zümrüt Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

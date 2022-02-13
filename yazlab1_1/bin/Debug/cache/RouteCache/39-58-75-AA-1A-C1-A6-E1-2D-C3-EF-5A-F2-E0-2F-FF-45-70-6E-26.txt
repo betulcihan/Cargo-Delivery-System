@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBVF6845PyxQRnku7bBkz4-8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ74YCC4ZPyxQRuj1QZCUFK6s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7682742,
+               "lng" : 29.9434739
+            },
+            "southwest" : {
+               "lat" : 40.7667068,
+               "lng" : 29.9383958
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 644
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 163
+               },
+               "end_address" : "Cedit, Turan Güneş Cd. No:34, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.767532,
+                  "lng" : 29.9383958
+               },
+               "start_address" : "Kadıköy, Yahya Kaptan Sk. No:1, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7682742,
+                  "lng" : 29.9434739
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eYahya Kaptan Sk.\u003c/b\u003e toward \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upywFuiwuD\\Fb@Hr@NP@rBV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682742,
+                        "lng" : 29.9434739
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 40.7668638,
+                        "lng" : 29.9422257
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eÇimen Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yhywFygwuDAf@AhAAv@?F@B@B?@@@@?@?@@?AJAJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670093,
+                        "lng" : 29.9431687
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.7670185,
+                        "lng" : 29.9418163
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHayır Sevenler Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{gywF}awuDALAJETGTMJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7668638,
+                        "lng" : 29.9422257
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.7667068,
+                        "lng" : 29.9388488
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVezir Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "{hywFk_wuDG^Wf@Bx@LrBA`A?LLzAJn@Tv@H\\Rh@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7670185,
+                        "lng" : 29.9418163
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.767532,
+                        "lng" : 29.9383958
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}fywFylvuDo@X[N[L]P]N"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7667068,
+                        "lng" : 29.9388488
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upywFuiwuDfCb@rBVAf@C`CBPD@XACXMj@MJG^Wf@Bx@LrBA`ALhBJn@Tv@\\fAeChA]N"
+         },
+         "summary" : "Vezir Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

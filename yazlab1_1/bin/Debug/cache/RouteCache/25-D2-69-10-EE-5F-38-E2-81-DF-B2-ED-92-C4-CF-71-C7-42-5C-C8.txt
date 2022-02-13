@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJK9q8Nce5yhQRy0am325qXgY",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJK9q8Nce5yhQRy0am325qXgY",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.01218,
+               "lng" : 28.98174
+            },
+            "southwest" : {
+               "lat" : 41.01218,
+               "lng" : 28.98174
+            }
+         },
+         "copyrights" : "Map data ©2021 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Cankurtaran, Gülhane Park, Kennedy Cd., 34122 Fatih/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.01218,
+                  "lng" : 28.98174
+               },
+               "start_address" : "Cankurtaran, Gülhane Park, Kennedy Cd., 34122 Fatih/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.01218,
+                  "lng" : 28.98174
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.01218,
+                        "lng" : 28.98174
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "ceiyF{n{oD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.01218,
+                        "lng" : 28.98174
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ceiyF{n{oD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

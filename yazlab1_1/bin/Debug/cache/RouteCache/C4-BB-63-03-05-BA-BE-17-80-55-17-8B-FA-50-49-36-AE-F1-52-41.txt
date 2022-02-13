@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmxLvKOVPyxQRtP-i8aaTdkg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmxLvKOVPyxQRtP-i8aaTdkg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.76511900000001,
+               "lng" : 29.9651711
+            },
+            "southwest" : {
+               "lat" : 40.76511900000001,
+               "lng" : 29.9651711
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yenişehir, Sönmezay Sk. No:13, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.76511900000001,
+                  "lng" : 29.9651711
+               },
+               "start_address" : "Yenişehir, Sönmezay Sk. No:13, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.76511900000001,
+                  "lng" : 29.9651711
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.76511900000001,
+                        "lng" : 29.9651711
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eSönmezay Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}xwFiq{uD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76511900000001,
+                        "lng" : 29.9651711
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_}xwFiq{uD"
+         },
+         "summary" : "Sönmezay Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYO9rfFPyxQR-mVqwp8OY_8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYO9rfFPyxQR-mVqwp8OY_8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7645187,
+               "lng" : 29.9593628
+            },
+            "southwest" : {
+               "lat" : 40.7645187,
+               "lng" : 29.9593628
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "M. Alipaşa, Adnan Menderes Blv. No:15, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7645187,
+                  "lng" : 29.9593628
+               },
+               "start_address" : "M. Alipaşa, Adnan Menderes Blv. No:15, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645187,
+                  "lng" : 29.9593628
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645187,
+                        "lng" : 29.9593628
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eAdnan Menderes Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gyxwF_mzuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645187,
+                        "lng" : 29.9593628
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gyxwF_mzuD"
+         },
+         "summary" : "Adnan Menderes Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

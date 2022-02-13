@@ -1,0 +1,396 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLSZDE5BPyxQRAFGoo5qFMNQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX9pw6O9PyxQRZLzFsMh3btI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7760063,
+               "lng" : 29.9612161
+            },
+            "southwest" : {
+               "lat" : 40.7663754,
+               "lng" : 29.93991059999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2939
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 523
+               },
+               "end_address" : "Yenişehir, Altaylı Sk. No:7, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7664531,
+                  "lng" : 29.9612161
+               },
+               "start_address" : "Erenler Mh., Gazanfer Bilge Blv. No:62, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7729276,
+                  "lng" : 29.9402063
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 361
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7759669,
+                        "lng" : 29.9408785
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e toward \u003cb\u003eİmalat Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ymzwFiuvuD{@Lc@HqAPo@LW@U@M?SAQCOEe@O{@a@MGs@]SI[QQSY_@KM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7729276,
+                        "lng" : 29.9402063
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 40.77365280000001,
+                        "lng" : 29.94547529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDeve Bağırtan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y`{wFoyvuDC[AKAE?E@IBG@GFIF?XAPCBANCn@QNIFCZYVq@TiA@MBa@Hw@NyAJSLk@@IFU^{@d@e@^SZ]LUN_@JYBm@?A@S?I?KAA?EAG?EACAC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7759669,
+                        "lng" : 29.9408785
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14 m",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.7735293,
+                        "lng" : 29.94547979999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eDeve Bağırtan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "irzwFgvwuDV?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.77365280000001,
+                        "lng" : 29.94547529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.7737519,
+                        "lng" : 29.9457214
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTepeüstü Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "qqzwFgvwuDk@o@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7735293,
+                        "lng" : 29.94547979999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 248
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.772009,
+                        "lng" : 29.9475067
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSinan Ykş. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}rzwFwwwuDRg@Zc@BG^g@@AZY\\[z@u@`@k@DCTUDE^YHC`@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7737519,
+                        "lng" : 29.9457214
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.7722024,
+                        "lng" : 29.9491683
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTürbebayırı Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ahzwF}bxuDBQBU?QMcAKqAAKGm@Gm@AS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.772009,
+                        "lng" : 29.9475067
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.77179140000001,
+                        "lng" : 29.9490275
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEski İstanbul Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gizwFimxuDx@TDBD@B?F?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7722024,
+                        "lng" : 29.9491683
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 528
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671433,
+                        "lng" : 29.9500213
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSelahattin Mutlu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ufzwFmlxuDJEFCFEFGHI~Bu@r@MfBSr@CVAjASv@S|AGdAGbFM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.77179140000001,
+                        "lng" : 29.9490275
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 198
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "siywFsrxuD?Q@}A?wAAi@Km@AG@a@By@@Y@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671433,
+                        "lng" : 29.9500213
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 618
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 40.7674743,
+                        "lng" : 29.95964379999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGazi Mustafa Kemal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wiywFgayuDAa@?QAqADyB@mB?cCF{CIgB?g@CeC?}@AUE}AE]O_CMc@Eu@CiAEW"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.76689340000001,
+                        "lng" : 29.9597804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLeyla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ukywFwnzuDrB["
+                     },
+                     "start_location" : {
+                        "lat" : 40.7674743,
+                        "lng" : 29.95964379999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7669064,
+                        "lng" : 29.9598615
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePaşa Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ahywFsozuDCO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76689340000001,
+                        "lng" : 29.9597804
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7663754,
+                        "lng" : 29.9601164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLeyla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ehywFcpzuDhBs@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7669064,
+                        "lng" : 29.9598615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "93 m",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7664531,
+                        "lng" : 29.9612161
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAltaylı Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{dywFwqzuDM{E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7663754,
+                        "lng" : 29.9601164
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ymzwFiuvuDaFv@m@Ba@Aa@Ie@O{@a@aAe@o@[k@s@KMC[CQ?EFYFIF?j@ERE~@[b@]Vq@TiADo@XqCJSLk@H_@^{@d@e@^SZ]LUZy@DmAC[AIACV?k@o@Rg@^k@`@i@x@u@z@u@`@k@ZYd@_@j@UFg@?QMcAM}AO{AASx@TJDJ?RINMHI~Bu@zCa@jAEbCg@bDObFM?Q@uDAi@Km@?i@DsA?wAAcBFgF?cCF{CIoCCcEGsBU}CMc@Eu@CiAEWrB[COhBs@M{E"
+         },
+         "summary" : "Gazi Mustafa Kemal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

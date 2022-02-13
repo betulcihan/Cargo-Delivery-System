@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJjRGbo0NFyxQRaPG0kGFd2es",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJjRGbo0NFyxQRaPG0kGFd2es",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7464115,
+               "lng" : 29.954718
+            },
+            "southwest" : {
+               "lat" : 40.7464115,
+               "lng" : 29.954718
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Vezirçiftliği, Eroğlu Sk. No:1, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7464115,
+                  "lng" : 29.954718
+               },
+               "start_address" : "Vezirçiftliği, Eroğlu Sk. No:1, 41140 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7464115,
+                  "lng" : 29.954718
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7464115,
+                        "lng" : 29.954718
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eMezbaha Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahuwF_pyuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7464115,
+                        "lng" : 29.954718
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ahuwF_pyuD"
+         },
+         "summary" : "Mezbaha Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

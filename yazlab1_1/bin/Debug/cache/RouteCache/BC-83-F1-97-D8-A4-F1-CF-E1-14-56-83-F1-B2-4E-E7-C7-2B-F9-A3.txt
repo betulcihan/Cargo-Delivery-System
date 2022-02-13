@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLXfdmOxPyxQRKE2MBKmg26E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW_ERNfJPyxQRiIruuRY_kPc",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.772807,
+               "lng" : 29.9578388
+            },
+            "southwest" : {
+               "lat" : 40.7652395,
+               "lng" : 29.9526352
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1200
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 197
+               },
+               "end_address" : "M. Alipaşa, Bağdat Cd. No:249, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7652395,
+                  "lng" : 29.9555654
+               },
+               "start_address" : "M. Alipaşa, Turan Güneş Cd. No:244, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7726463,
+                  "lng" : 29.9526352
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 40.772807,
+                        "lng" : 29.9535572
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e toward \u003cb\u003eŞht. Kenan Başol Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "alzwF_cyuDEk@Gm@Q}A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7726463,
+                        "lng" : 29.9526352
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 714
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 40.76731669999999,
+                        "lng" : 29.9578388
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdnan Menderes Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "amzwFwhyuDRI@ANOHId@s@RSRSz@i@b@[PIhA{@|@q@xBeBb@]tB_Bl@k@~@w@fAqAfG}B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.772807,
+                        "lng" : 29.9535572
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671936,
+                        "lng" : 29.95561679999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazi Mustafa Kemal Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wjywFoczuDHpAB\\@v@BlDDdB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76731669999999,
+                        "lng" : 29.9578388
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.7652395,
+                        "lng" : 29.9555654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKavaklar Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}iywFsuyuDPAT?^?B?v@BH?N@h@AT?H@`A@`A@X@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671936,
+                        "lng" : 29.95561679999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "alzwF_cyuDMyAQ}ARIPQn@}@f@g@~AeAzAeAvDwCxC}BlBcBfAqAfG}BLnBDdFDdBPAt@?z@BxA?fDF"
+         },
+         "summary" : "Adnan Menderes Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

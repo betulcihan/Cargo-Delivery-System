@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJL5Ts-_49zBQRrUlwAPe2Wyc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJL5Ts-_49zBQRrUlwAPe2Wyc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7705639,
+               "lng" : 30.53122249999999
+            },
+            "southwest" : {
+               "lat" : 39.7705639,
+               "lng" : 30.53122249999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kurtuluş, Bilgin Sk. No:49, 26090 Odunpazarı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7705639,
+                  "lng" : 30.53122249999999
+               },
+               "start_address" : "Kurtuluş, Bilgin Sk. No:49, 26090 Odunpazarı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7705639,
+                  "lng" : 30.53122249999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7705639,
+                        "lng" : 30.53122249999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBilgin Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_uvqFccjyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7705639,
+                        "lng" : 30.53122249999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_uvqFccjyD"
+         },
+         "summary" : "Bilgin Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

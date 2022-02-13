@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX_0BeR8-zBQRAZdMlJdDfAY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX_0BeR8-zBQRAZdMlJdDfAY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7916354,
+               "lng" : 30.5309913
+            },
+            "southwest" : {
+               "lat" : 39.7916354,
+               "lng" : 30.5309913
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Zafer, Çataltepe Sk. No:10, 26220 Tepebaşı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7916354,
+                  "lng" : 30.5309913
+               },
+               "start_address" : "Zafer, Çataltepe Sk. No:10, 26220 Tepebaşı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7916354,
+                  "lng" : 30.5309913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7916354,
+                        "lng" : 30.5309913
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eÇataltepe Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wxzqFuajyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7916354,
+                        "lng" : 30.5309913
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wxzqFuajyD"
+         },
+         "summary" : "Çataltepe Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

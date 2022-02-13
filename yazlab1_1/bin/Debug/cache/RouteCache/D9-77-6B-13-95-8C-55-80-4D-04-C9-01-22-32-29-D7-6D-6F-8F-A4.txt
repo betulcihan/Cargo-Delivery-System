@@ -1,0 +1,228 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLWHTmWFFyxQRjZf8wWWUyFI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJjRGbo0NFyxQRaPG0kGFd2es",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7594916,
+               "lng" : 29.9591326
+            },
+            "southwest" : {
+               "lat" : 40.7464115,
+               "lng" : 29.9464531
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 km",
+                  "value" : 2554
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 343
+               },
+               "end_address" : "Vezirçiftliği, Eroğlu Sk. No:1, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7464115,
+                  "lng" : 29.954718
+               },
+               "start_address" : "Körfez, Karadut Sk. No:12, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7593478,
+                  "lng" : 29.9464531
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 196
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.7594916,
+                        "lng" : 29.9487772
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eKaradut Sk.\u003c/b\u003e toward \u003cb\u003eGıda Toptancılar Sitesi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}xwwFi|wuDA{@EoACaBEqBGsAA]"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7593478,
+                        "lng" : 29.9464531
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.758903,
+                        "lng" : 29.9509098
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eRıza Paşa Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yywwF{jxuDb@GjBYZMJKFKDQBW?YEg@AUA]Ga@EQIY[cAM_@GO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7594916,
+                        "lng" : 29.9487772
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7591853,
+                        "lng" : 29.9515379
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eŞht. Remzi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cvwwFexxuDQkBCIAEAAEAY@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.758903,
+                        "lng" : 29.9509098
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 234
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7594299,
+                        "lng" : 29.9543011
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Taner Güler Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}wwwFc|xuD?WA_@EiACu@GuA[yG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7591853,
+                        "lng" : 29.9515379
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.7580028,
+                        "lng" : 29.9549732
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKübra Sk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mywwFkmyuDj@SXOXOn@Uz@]h@Of@M"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7594299,
+                        "lng" : 29.9543011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 499
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.7554972,
+                        "lng" : 29.9591326
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHayrettin Uzun Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "opwwFqqyuDu@oBCKAC?C?E?C@GDMz@aBp@qAd@}@f@w@x@y@x@w@|@w@|@{@z@y@d@k@Xe@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7580028,
+                        "lng" : 29.9549732
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1109
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 140
+                     },
+                     "end_location" : {
+                        "lat" : 40.7464115,
+                        "lng" : 29.954718
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMezbaha Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{`wwFqkzuDxAlA~B|C|DtDnAjANJpBp@LFdDlAPHr@TnA^|@ZbAVb@JpA\\bB^VHrCj@~@PNBRBv@DxASzAOJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7554972,
+                        "lng" : 29.9591326
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}xwwFi|wuDQ_JIqBnCa@ZMJKL]Bq@G}@I_AOk@i@cBGOQkBEOGCY@?WGiBKkC[yGj@Sr@_@jBs@pA]y@{BAQFUlBsDlAuBrBqBzBsB`BeBXe@xAlA~B|C|DtD~AvA~Bx@vDvAbCt@|@ZbAVtBh@zBh@rE|@b@Fv@DxASfBO"
+         },
+         "summary" : "Mezbaha Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

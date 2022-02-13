@@ -1,0 +1,301 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjxLw7ZyZmV6LCBZw7xjZSBSxLFmYXQgU2suIE5vOjYsIDQxMDQwIMSwem1pdC9Lb2NhZWxpLCBUdXJrZXkiGhIYChQKEgnF5PSI80_LFBHBouMHmJRpRBAG",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYO9rfFPyxQR-mVqwp8OY_8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7652765,
+               "lng" : 29.9593628
+            },
+            "southwest" : {
+               "lat" : 40.7622642,
+               "lng" : 29.9568305
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 777
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 212
+               },
+               "end_address" : "M. Alipaşa, Adnan Menderes Blv. No:15, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7645187,
+                  "lng" : 29.9593628
+               },
+               "start_address" : "Körfez, Yüce Rıfat Sk. No:6, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7627244,
+                  "lng" : 29.9571576
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "9 m",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.76264700000001,
+                        "lng" : 29.9571704
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_nxwFg_zuDLA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7627244,
+                        "lng" : 29.9571576
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.7622818,
+                        "lng" : 29.9579239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street toward \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qmxwFi_zuDH?p@?PAC{@?eA?Q"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76264700000001,
+                        "lng" : 29.9571704
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.7626832,
+                        "lng" : 29.9576424
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "gkxwF_dzuDu@AYG?T@@Ah@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7622818,
+                        "lng" : 29.9579239
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "wmxwFgbzuDEJCHGJMNMF_@JODKBKDGGGCKAK?K@QFGFEDCF?B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7626832,
+                        "lng" : 29.9576424
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.7639141,
+                        "lng" : 29.9568305
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "etxwF{~yuD]b@IP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7637149,
+                        "lng" : 29.9571
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646434,
+                        "lng" : 29.9568812
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eBelinay Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "muxwFe}yuDCAMEMCOCaBD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7639141,
+                        "lng" : 29.9568305
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646656,
+                        "lng" : 29.9575182
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBelinay Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zxwFo}yuDE_C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646434,
+                        "lng" : 29.9568812
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.76524209999999,
+                        "lng" : 29.95752179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eErdem Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ezxwFoazuDqB?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646656,
+                        "lng" : 29.9575182
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7652765,
+                        "lng" : 29.9591302
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eİsmail Dal Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w}xwFoazuDCmCCsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76524209999999,
+                        "lng" : 29.95752179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645187,
+                        "lng" : 29.9593628
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdnan Menderes Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_~xwFqkzuDr@[PEt@KZ?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7652765,
+                        "lng" : 29.9591302
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_nxwFg_zuDzACCaC?Qu@AYG?T?j@ITUZiA\\KDGGSEW@YNg@t@IPCA[IqB@E_CqB?GaIdAa@t@KZ?"
+         },
+         "summary" : "Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

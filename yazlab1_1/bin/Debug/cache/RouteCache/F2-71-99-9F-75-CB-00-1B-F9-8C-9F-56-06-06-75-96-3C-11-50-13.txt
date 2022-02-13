@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_5Z8qZ5EyxQR6unr2PSX3nc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_5Z8qZ5EyxQR6unr2PSX3nc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.6909595,
+               "lng" : 29.9456235
+            },
+            "southwest" : {
+               "lat" : 40.6909595,
+               "lng" : 29.9456235
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Altınkent, Çakırlar Sk. No:23, 41090 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.6909595,
+                  "lng" : 29.9456235
+               },
+               "start_address" : "Altınkent, Çakırlar Sk. No:23, 41090 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.6909595,
+                  "lng" : 29.9456235
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.6909595,
+                        "lng" : 29.9456235
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "omjwFcwwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6909595,
+                        "lng" : 29.9456235
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "omjwFcwwuD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,91 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj7N1W2FFyxQRYISLd6sCYFM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmXBImmZFyxQRXS5lHxplzas",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7575705,
+               "lng" : 29.9493648
+            },
+            "southwest" : {
+               "lat" : 40.7573779,
+               "lng" : 29.9465457
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 239
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 54
+               },
+               "end_address" : "Sanayi, Ömer Türkçakal Blv. No:41, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7575705,
+                  "lng" : 29.9493648
+               },
+               "start_address" : "Sanayi, Ömer Türkçakal Blv. No:9, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7573779,
+                  "lng" : 29.9465457
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 239
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.7575705,
+                        "lng" : 29.9493648
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "slwwF}|wuDCgAKmECkBAYAUAIC_@CSA[Ae@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7573779,
+                        "lng" : 29.9465457
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "slwwF}|wuDU{KKsACaA"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

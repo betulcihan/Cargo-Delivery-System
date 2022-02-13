@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLU07eTNOyxQR4CO9n4M6sUI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLU07eTNOyxQR4CO9n4M6sUI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7966705,
+               "lng" : 29.956681
+            },
+            "southwest" : {
+               "lat" : 40.7966705,
+               "lng" : 29.956681
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Gündoğdu, Etkin Sk. 18-2, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7966705,
+                  "lng" : 29.956681
+               },
+               "start_address" : "Gündoğdu, Etkin Sk. 18-2, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7966705,
+                  "lng" : 29.956681
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7966705,
+                        "lng" : 29.956681
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eEtkin Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eb_xFg|yuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7966705,
+                        "lng" : 29.956681
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eb_xFg|yuD"
+         },
+         "summary" : "Etkin Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

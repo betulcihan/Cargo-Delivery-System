@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJi-2lG3xFyxQRZ3dS_7Zhoxs",
+         "types" : [ "cafe", "establishment", "food", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJseulXYpPyxQRaEQH8ZIMw78",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7620944,
+               "lng" : 29.9496106
+            },
+            "southwest" : {
+               "lat" : 40.7604242,
+               "lng" : 29.9339677
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1664
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 255
+               },
+               "end_address" : "Körfez, Oramiral Salim Dervişoğlu Cd. No:100, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7620152,
+                  "lng" : 29.9476281
+               },
+               "start_address" : "Karabaş, Oramiral Salim Dervişoğlu Cd. No:82, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7604242,
+                  "lng" : 29.9339677
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.7611187,
+                        "lng" : 29.9340573
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s_xwFinuuD{@?C?y@AQO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7604242,
+                        "lng" : 29.9339677
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1313
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 153
+                     },
+                     "end_location" : {
+                        "lat" : 40.7620944,
+                        "lng" : 29.9495372
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_dxwF{nuuDAm@Cm@?AEgAGgB?i@Co@?Qc@kQEcCImCCQJu@HaBAQW{AGUCsAAgAA}@SmIC{@?y@CcAImBEiAAYASIgCCi@?CIiCUiG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7611187,
+                        "lng" : 29.9340573
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.76168,
+                        "lng" : 29.9496106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVali Eşref Cd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ajxwFsoxuDpAM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7620944,
+                        "lng" : 29.9495372
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.761457,
+                        "lng" : 29.948345
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Hasan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ogxwFapxuDj@zF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76168,
+                        "lng" : 29.9496106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "60 m",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.7619849,
+                        "lng" : 29.9482115
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRıza Paşa Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cfxwFehxuDgBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.761457,
+                        "lng" : 29.948345
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "57 m",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.7620152,
+                        "lng" : 29.9476281
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDemiryolu Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kixwFigxuDO@FpB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7619849,
+                        "lng" : 29.9482115
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_xwFinuuD_A?y@AQOE{AEiAKsEi@oUImCCQJu@HaBYmBGUCsACeCWiKC}BSeFW_IUiGpAMj@zFgBZO@FpB"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

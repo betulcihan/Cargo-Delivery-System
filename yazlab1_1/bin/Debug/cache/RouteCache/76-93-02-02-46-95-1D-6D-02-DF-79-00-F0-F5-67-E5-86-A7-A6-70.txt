@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgbXlGYdPyxQRdHtk3nfbLRQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgbXlGYdPyxQRdHtk3nfbLRQ",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7659182,
+               "lng" : 29.9356145
+            },
+            "southwest" : {
+               "lat" : 40.7659182,
+               "lng" : 29.9356145
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Cedit, Leyla Atakan Cd. No:24, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7659182,
+                  "lng" : 29.9356145
+               },
+               "start_address" : "Cedit, Leyla Atakan Cd. No:24, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7659182,
+                  "lng" : 29.9356145
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7659182,
+                        "lng" : 29.9356145
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBostanlar Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_bywFqxuuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7659182,
+                        "lng" : 29.9356145
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_bywFqxuuD"
+         },
+         "summary" : "Bostanlar Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

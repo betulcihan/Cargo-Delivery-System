@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJUzXqt-hPyxQRHQA9Q3AUlYA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2T5lL41PyxQRd8AHp-GZfGc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.772807,
+               "lng" : 29.9611817
+            },
+            "southwest" : {
+               "lat" : 40.7671433,
+               "lng" : 29.94920399999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1726
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 374
+               },
+               "end_address" : "M. Alipaşa Mh, Bağdat Cd. No:114, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7671433,
+                  "lng" : 29.9500213
+               },
+               "start_address" : "Yenişehir, İpek Sk. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7709398,
+                  "lng" : 29.9611817
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "48 m",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.7709227,
+                        "lng" : 29.9606114
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eİpek Sk.\u003c/b\u003e toward \u003cb\u003eÖzden Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kazwFkxzuDBpB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7709398,
+                        "lng" : 29.9611817
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.7720258,
+                        "lng" : 29.9605698
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eÖzden Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gazwFytzuDa@BgADa@@c@?m@C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7709227,
+                        "lng" : 29.9606114
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 284
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.7714795,
+                        "lng" : 29.95739
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSezgin Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ehzwFqtzuDC~D?rBDr@D^DXHZX~@z@|B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7720258,
+                        "lng" : 29.9605698
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.772431,
+                        "lng" : 29.9556195
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Kazım Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wdzwFu`zuDi@r@MTG\\ATIr@Of@KXa@p@s@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7714795,
+                        "lng" : 29.95739
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 585
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ujzwFsuyuDFx@?VATETI^c@fCGRGXIVCT?XP|AFl@TjCFfADb@RjB@pAHPRb@R`@R`@Pf@lAbC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.772431,
+                        "lng" : 29.9556195
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 498
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671433,
+                        "lng" : 29.9500213
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSelahattin Mutlu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gezwFomxuD~Bu@r@MfBSr@CVAjASv@S|AGdAGbFM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7715558,
+                        "lng" : 29.94920399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kazwFkxzuDBpBa@BiBFqACCrHJrANt@tA|Dw@hAIr@Ir@Of@m@jAs@z@Fx@Al@Ot@k@zCQp@Cn@XjC\\rEXnC@pAHPf@dAd@hAlAbC~Bu@zCa@jAEbCg@bDObFM"
+         },
+         "summary" : "Turan Güneş Cd. and Selahattin Mutlu Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

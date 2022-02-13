@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hastane Yolu Sokak",
+               "short_name" : "Hastane Yolu Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedit",
+               "short_name" : "Cedit",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41300",
+               "short_name" : "41300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cedit Mahallesi Güneş Cad, Cedit, Hastane Yolu Sk., 41300 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7673205,
+               "lng" : 29.9382812
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7686694802915,
+                  "lng" : 29.9396301802915
+               },
+               "southwest" : {
+                  "lat" : 40.7659715197085,
+                  "lng" : 29.9369322197085
+               }
+            }
+         },
+         "place_id" : "ChIJiYMXDoZPyxQRNCAA_edS-qo",
+         "plus_code" : {
+            "compound_code" : "QW8Q+W8 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW8Q+W8"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhUMVR4hPyxQRsFIYoTcROVM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgwn-l4lPyxQRAattMLYfrq0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.765315,
+               "lng" : 29.9438042
+            },
+            "southwest" : {
+               "lat" : 40.7634265,
+               "lng" : 29.9408769
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 619
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 95
+               },
+               "end_address" : "Körfez Mh., Ankara Karayolu Cd No:125, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7634265,
+                  "lng" : 29.9438042
+               },
+               "start_address" : "Körfez Mh., Süreyya Sk No:1, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7634462,
+                  "lng" : 29.9409911
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.7649826,
+                        "lng" : 29.9408769
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qrxwFezvuD]?eA@I@sDNO@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7634462,
+                        "lng" : 29.9409911
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.7652605,
+                        "lng" : 29.9420839
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c|xwFoyvuDGEKEIEICEGAACEGMAKAKCSFgBBg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7649826,
+                        "lng" : 29.9408769
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.7650592,
+                        "lng" : 29.9437795
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{}xwF_awuDFkBPaCLeB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7652605,
+                        "lng" : 29.9420839
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.7634265,
+                        "lng" : 29.9438042
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s|xwFskwuDlC?tBC`A?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7650592,
+                        "lng" : 29.9437795
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qrxwFezvuDcB@}DPO@GEUKOKEGIYE_@JoCFkBPaCLeBlC?vDC"
+         },
+         "summary" : "Sanayi Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

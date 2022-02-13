@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh3eNyE9O0xQRiy1d6PvzNYM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJty4T-1tO0xQRtlNEQXPYaxs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9333708,
+               "lng" : 32.8676324
+            },
+            "southwest" : {
+               "lat" : 39.925674,
+               "lng" : 32.859739
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1584
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 260
+               },
+               "end_address" : "Hacettepe, A.Adnan Saygun Cd, Altındağ/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9333708,
+                  "lng" : 32.8597818
+               },
+               "start_address" : "Ön Cebeci, Umut Sk. No:11, 06590 Çankaya/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.925674,
+                  "lng" : 32.8661333
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 39.9260704,
+                        "lng" : 32.8667516
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eUmut Sk.\u003c/b\u003e toward \u003cb\u003eBoncuk Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m~trFidrgEoA{B"
+                     },
+                     "start_location" : {
+                        "lat" : 39.925674,
+                        "lng" : 32.8661333
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 39.9267958,
+                        "lng" : 32.8660611
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eBoncuk Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`urFehrgEGKiCtC"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9260704,
+                        "lng" : 32.8667516
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 39.927827,
+                        "lng" : 32.8673839
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZiya Gökalp Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oeurF{crgEuBeDS[OQs@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9267958,
+                        "lng" : 32.8660611
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 39.9285152,
+                        "lng" : 32.8624406
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit onto \u003cb\u003eCelal Bayar Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "}kurFclrgE?A?C?A?A?A?AAA?AAC?AACACAACCAAAAECCAC?CAC?C?C?C@C?C@CBEB?@A@A@A@AB?@A@?@A@?@?B?@?@?@?@?@?@?@@@?B?@@B?@@@?B@@@B?@E|@G~AIhCUtJCn@At@MxD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.927827,
+                        "lng" : 32.8673839
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 39.928739,
+                        "lng" : 32.85977
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eUlus\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eDışkapı\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eHavalimanı\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "gpurFgmqgEKf@CL?HQpHCl@EtB"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9285152,
+                        "lng" : 32.8624406
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 523
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 39.9333708,
+                        "lng" : 32.8597818
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eA.Adnan Saygun Cd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "squrFq|pgECD{@UUGi@Oq@Qq@O[CQCIAi@?_CF_@BU@Y@qETG@m@Do@J_@Fe@JIB"
+                     },
+                     "start_location" : {
+                        "lat" : 39.928739,
+                        "lng" : 32.85977
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m~trFidrgEwAgCiCtCuBeDc@m@s@u@?ICIEKMKOCO@MJGHCP@PBJBDE~@QhFYdLOnFOt@[~MCD{@U_AWcBa@m@Gs@A_DJiGZ}APeARIB"
+         },
+         "summary" : "Celal Bayar Blv. and A.Adnan Saygun Cd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

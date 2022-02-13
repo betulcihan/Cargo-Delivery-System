@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ74Zdl4JayxQRaj_uHf6wiVc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ74Zdl4JayxQRaj_uHf6wiVc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.74213390000001,
+               "lng" : 30.0103344
+            },
+            "southwest" : {
+               "lat" : 40.74213390000001,
+               "lng" : 30.0103344
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Gaziler, Onur Sk. No:2, 41250 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.74213390000001,
+                  "lng" : 30.0103344
+               },
+               "start_address" : "Gaziler, Onur Sk. No:2, 41250 Kartepe/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.74213390000001,
+                  "lng" : 30.0103344
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.74213390000001,
+                        "lng" : 30.0103344
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eOnur Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "imtwFqkdvD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.74213390000001,
+                        "lng" : 30.0103344
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "imtwFqkdvD"
+         },
+         "summary" : "Onur Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

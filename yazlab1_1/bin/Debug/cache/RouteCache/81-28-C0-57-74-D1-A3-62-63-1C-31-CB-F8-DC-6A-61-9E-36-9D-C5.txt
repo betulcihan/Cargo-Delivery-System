@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4SKfnUa20hQRUA3XI_2B4rI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4SKfnUa20hQRUA3XI_2B4rI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.2152418,
+               "lng" : 31.9663106
+            },
+            "southwest" : {
+               "lat" : 40.2152418,
+               "lng" : 31.9663106
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kuyumcutekke, Unnamed Road, 06730 Beypazarı/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 40.2152418,
+                  "lng" : 31.9663106
+               },
+               "start_address" : "Kuyumcutekke, Unnamed Road, 06730 Beypazarı/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 40.2152418,
+                  "lng" : 31.9663106
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.2152418,
+                        "lng" : 31.9663106
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "gpmtFmlbbE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.2152418,
+                        "lng" : 31.9663106
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gpmtFmlbbE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

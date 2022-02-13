@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1c5VdktPyxQRPk5JdoMsuqc",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLU07eTNOyxQR4CO9n4M6sUI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7967155,
+               "lng" : 29.956681
+            },
+            "southwest" : {
+               "lat" : 40.7942573,
+               "lng" : 29.9541221
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 421
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 88
+               },
+               "end_address" : "Gündoğdu, Etkin Sk. 18-2, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7966705,
+                  "lng" : 29.956681
+               },
+               "start_address" : "Gündoğdu, Zübeyde Hanım Cd. No:214, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7942573,
+                  "lng" : 29.9546846
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.7943064,
+                        "lng" : 29.9545895
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eZübeyde Hanım Cd.\u003c/b\u003e toward \u003cb\u003eGençoğlu Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cs~wFwoyuDIP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7942573,
+                        "lng" : 29.9546846
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.7955359,
+                        "lng" : 29.9541455
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGençoğlu Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ms~wFeoyuDe@HOJODA?cA\\a@Ni@R]E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7943064,
+                        "lng" : 29.9545895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.79609440000001,
+                        "lng" : 29.9555539
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHızır Reis Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c{~wFmlyuDHeACUGKGKIKk@k@Sa@Qs@GU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7955359,
+                        "lng" : 29.9541455
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.7966705,
+                        "lng" : 29.956681
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eEtkin Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "q~~wFeuyuDOc@GMMWGMOUQUGIYa@EGEK?C?E?C@C@ADI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79609440000001,
+                        "lng" : 29.9555539
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cs~wFwoyuDIPe@H_@PqC`A]EHeAKa@QWk@k@Sa@YiAWq@w@qAa@k@KS@QFK"
+         },
+         "summary" : "Gençoğlu Sk., Hızır Reis Sk. and Etkin Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

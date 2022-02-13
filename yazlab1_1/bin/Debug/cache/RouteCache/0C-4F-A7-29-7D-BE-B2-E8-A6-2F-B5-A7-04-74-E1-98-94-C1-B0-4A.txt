@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYFwVVWxzBQRbCDRViI93aY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYFwVVWxzBQRbCDRViI93aY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.694032,
+               "lng" : 30.4351984
+            },
+            "southwest" : {
+               "lat" : 40.694032,
+               "lng" : 30.4351984
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Çaybaşıyeniköy, Kayalarreşitbey Köyü İç Yolu, 54200 Erenler/Sakarya, Turkey",
+               "end_location" : {
+                  "lat" : 40.694032,
+                  "lng" : 30.4351984
+               },
+               "start_address" : "Çaybaşıyeniköy, Kayalarreşitbey Köyü İç Yolu, 54200 Erenler/Sakarya, Turkey",
+               "start_location" : {
+                  "lat" : 40.694032,
+                  "lng" : 30.4351984
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.694032,
+                        "lng" : 30.4351984
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKayalarreşitbey Köyü İç Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u`kwF_kwxD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.694032,
+                        "lng" : 30.4351984
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "u`kwF_kwxD"
+         },
+         "summary" : "Kayalarreşitbey Köyü İç Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

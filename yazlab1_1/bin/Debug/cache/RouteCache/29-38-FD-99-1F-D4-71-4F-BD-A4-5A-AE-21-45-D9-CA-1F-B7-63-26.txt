@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq6r2N4dPyxQRVYWbQEJysbU",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq6r2N4dPyxQRVYWbQEJysbU",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7655818,
+               "lng" : 29.9342945
+            },
+            "southwest" : {
+               "lat" : 40.7655818,
+               "lng" : 29.9342945
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Karabaş, Leyla Atakan Cd. No: 35, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7655818,
+                  "lng" : 29.9342945
+               },
+               "start_address" : "Karabaş, Leyla Atakan Cd. No: 35, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7655818,
+                  "lng" : 29.9342945
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7655818,
+                        "lng" : 29.9342945
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİskete Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{_ywFipuuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7655818,
+                        "lng" : 29.9342945
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{_ywFipuuD"
+         },
+         "summary" : "İskete Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJeQ2-zmZFyxQRCU_Ygk9yGVU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJd90-ovhPyxQRJ8_K_md0uYU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7583215,
+               "lng" : 29.9669106
+            },
+            "southwest" : {
+               "lat" : 40.753547,
+               "lng" : 29.9469091
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2491
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 327
+               },
+               "end_address" : "Ovacık, Demiryolu Cd. No:16, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.75543570000001,
+                  "lng" : 29.9669106
+               },
+               "start_address" : "Sanayi, Ömer Türkçakal Blv. No:25, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7552998,
+                  "lng" : 29.9469091
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 273
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.7535456,
+                        "lng" : 29.949092
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e toward \u003cb\u003eHayrettin Uzun Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s_wwFe_xuD~@sB^u@JUJUn@eAXa@XYRSZUTMBAXO\\Q"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7552998,
+                        "lng" : 29.9469091
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1004
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 40.7570325,
+                        "lng" : 29.9575687
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHayrettin Uzun Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "utvwFylxuD?AUkACSCQs@iBUe@CIIQKMGIQKa@M{Ai@}@_@kDwDcDkFgBuD_BsCIMu@oBCKAC?C?E?C@GDMz@aBp@qAd@}@f@w@x@y@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7535456,
+                        "lng" : 29.949092
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 538
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 40.757002,
+                        "lng" : 29.9615564
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKorkmazlar Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mjwwFyazuDMYOWc@g@i@e@oAy@OMCCCE?EAEGgASsEBsCVu@h@wCBKPLJDnCt@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7570325,
+                        "lng" : 29.9575687
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 162
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.7582523,
+                        "lng" : 29.962241
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eOrman Gülü Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gjwwFwzzuD?OAEAGQe@{Bg@aBYEA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.757002,
+                        "lng" : 29.9615564
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.7583215,
+                        "lng" : 29.9624265
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eDemiryolu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "arwwF__{uDGKCIAO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7582523,
+                        "lng" : 29.962241
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 496
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.75543570000001,
+                        "lng" : 29.9669106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDemiryolu Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "orwwFe`{uDl@eAr@mALUNWd@u@z@uAjAyBx@eBjAwBtBwDTa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7583215,
+                        "lng" : 29.9624265
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_wwFe_xuDvBuEhAgBl@m@p@c@\\Q\\SY_BCQs@iBYo@U_@YU}Bw@}@_@kDwDcDkFgBuDiBaDy@{BAGF_@lBsDlAuBx@y@MYOWc@g@i@e@oAy@SQCKImASsEBsCVu@h@wCBKPLzCz@AUSm@}EaAMMEY`BsC~ByDdC_F`EoHTa@"
+         },
+         "summary" : "Hayrettin Uzun Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

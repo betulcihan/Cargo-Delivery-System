@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj0zs4SZSyxQR1AN5mvtlfJo",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj0zs4SZSyxQR1AN5mvtlfJo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.821966,
+               "lng" : 30.004646
+            },
+            "southwest" : {
+               "lat" : 40.821966,
+               "lng" : 30.004646
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yassıbağ, D605, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.821966,
+                  "lng" : 30.004646
+               },
+               "start_address" : "Yassıbağ, D605, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.821966,
+                  "lng" : 30.004646
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.821966,
+                        "lng" : 30.004646
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİzmit Kandıra Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD605\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i`dxFahcvD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.821966,
+                        "lng" : 30.004646
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i`dxFahcvD"
+         },
+         "summary" : "İzmit Kandıra Yolu/D605",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

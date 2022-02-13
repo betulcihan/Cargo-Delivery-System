@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh3eNyE9O0xQRiy1d6PvzNYM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJh3eNyE9O0xQRiy1d6PvzNYM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.925674,
+               "lng" : 32.8661333
+            },
+            "southwest" : {
+               "lat" : 39.925674,
+               "lng" : 32.8661333
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Ön Cebeci, Umut Sk. No:11, 06590 Çankaya/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.925674,
+                  "lng" : 32.8661333
+               },
+               "start_address" : "Ön Cebeci, Umut Sk. No:11, 06590 Çankaya/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.925674,
+                  "lng" : 32.8661333
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.925674,
+                        "lng" : 32.8661333
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eUmut Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m~trFidrgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.925674,
+                        "lng" : 32.8661333
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m~trFidrgE"
+         },
+         "summary" : "Umut Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

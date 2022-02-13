@@ -1,0 +1,132 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJleqs2oxPyxQRBh4giwwejeY",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVRHulO9PyxQRt_nPw_-5yhY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.76764,
+               "lng" : 29.961205
+            },
+            "southwest" : {
+               "lat" : 40.7671044,
+               "lng" : 29.950188
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 978
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 199
+               },
+               "end_address" : "Yenişehir, Gülbahçe Sk. No:2, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7672589,
+                  "lng" : 29.96116
+               },
+               "start_address" : "Kadıköy, Esendal Sk. No:19, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7671384,
+                  "lng" : 29.950188
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBağdat Cd.\u003c/b\u003e toward \u003cb\u003eGazi Erdoğan Gürkan Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "siywFusxuD@mA?wAAi@Km@AG@a@By@@Y@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671384,
+                        "lng" : 29.950188
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 751
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 40.76764,
+                        "lng" : 29.961205
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGazi Mustafa Kemal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wiywFgayuDAa@?QAqADyB@mB?cCF{CIgB?g@CeC?}@AUE}AE]O_CMc@Eu@CiAEWKmAUiF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43 m",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672589,
+                        "lng" : 29.96116
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGülbahçe Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wlywFoxzuDjAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76764,
+                        "lng" : 29.961205
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "siywFusxuD@eDAi@Km@?i@DsA?wAAcBFgF?cCF{CIoCCcEGsBU}CMc@Eu@CiAEWa@wHjAF"
+         },
+         "summary" : "Gazi Mustafa Kemal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

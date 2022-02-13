@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW_ERNfJPyxQRiIruuRY_kPc",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJX9pw6O9PyxQRZLzFsMh3btI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7674743,
+               "lng" : 29.9612161
+            },
+            "southwest" : {
+               "lat" : 40.7652395,
+               "lng" : 29.9555654
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 778
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 187
+               },
+               "end_address" : "Yenişehir, Altaylı Sk. No:7, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7664531,
+                  "lng" : 29.9612161
+               },
+               "start_address" : "M. Alipaşa, Bağdat Cd. No:249, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7652395,
+                  "lng" : 29.9555654
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671044,
+                        "lng" : 29.9556333
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eKavaklar Cd.\u003c/b\u003e toward \u003cb\u003eİsmail Dal Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w}xwFiuyuDYAaAAaAAIAU?i@@OAI?w@CC?_@?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7652395,
+                        "lng" : 29.9555654
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 40.7674743,
+                        "lng" : 29.95964379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazi Mustafa Kemal Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kiywFuuyuDIgB?g@CeC?}@AUE}AE]O_CMc@Eu@CiAEW"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671044,
+                        "lng" : 29.9556333
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.76689340000001,
+                        "lng" : 29.9597804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLeyla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ukywFwnzuDrB["
+                     },
+                     "start_location" : {
+                        "lat" : 40.7674743,
+                        "lng" : 29.95964379999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7669064,
+                        "lng" : 29.9598615
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePaşa Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ahywFsozuDCO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76689340000001,
+                        "lng" : 29.9597804
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7663754,
+                        "lng" : 29.9601164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLeyla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ehywFcpzuDhBs@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7669064,
+                        "lng" : 29.9598615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "93 m",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7664531,
+                        "lng" : 29.9612161
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAltaylı Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{dywFwqzuDM{E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7663754,
+                        "lng" : 29.9601164
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w}xwFiuyuDgDGyA?qBCIoCCcEGsBU}CMc@Eu@CiAEWrB[COhBs@M{E"
+         },
+         "summary" : "Kavaklar Cd. and Gazi Mustafa Kemal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

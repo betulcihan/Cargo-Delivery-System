@@ -1,0 +1,156 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJma6L44VPyxQR1_H7YNfXd7s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRT0eeYhPyxQR_q130_U3hKQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7682592,
+               "lng" : 29.9408038
+            },
+            "southwest" : {
+               "lat" : 40.7645595,
+               "lng" : 29.9384685
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 629
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 157
+               },
+               "end_address" : "Körfez, Berk Sk. No:8, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7645595,
+                  "lng" : 29.9397947
+               },
+               "start_address" : "Cedit, Turan Güneş Cd. No:38, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7680831,
+                  "lng" : 29.9384685
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.7682592,
+                        "lng" : 29.939915
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ooywFmjvuDMoA@[?QIy@Cc@IeA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7680831,
+                        "lng" : 29.9384685
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "spywFosvuDbAcATGREj@CXAv@@J@bBAx@ATA^Al@MXI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682592,
+                        "lng" : 29.939915
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_`ywFcwvuDt@WLMPKLA@?PCdAC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7655999,
+                        "lng" : 29.9405033
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645595,
+                        "lng" : 29.9397947
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBerk Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "azxwF_yvuDPhE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7646479,
+                        "lng" : 29.9408038
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ooywFmjvuDMoA@[IkAMiBbAcATG~@IpA?nB?nAC^Al@MnAa@^YNAvAGPhE"
+         },
+         "summary" : "Gazanfer Bilge Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

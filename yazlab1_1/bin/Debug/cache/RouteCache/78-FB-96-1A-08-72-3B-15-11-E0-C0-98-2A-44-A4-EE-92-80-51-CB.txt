@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYO9rfFPyxQR-mVqwp8OY_8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjxLw7ZyZmV6LCBZw7xjZSBSxLFmYXQgU2suIE5vOjYsIDQxMDQwIMSwem1pdC9Lb2NhZWxpLCBUdXJrZXkiGhIYChQKEgnF5PSI80_LFBHBouMHmJRpRBAG",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7645187,
+               "lng" : 29.9593628
+            },
+            "southwest" : {
+               "lat" : 40.7627244,
+               "lng" : 29.95682589999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 426
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 108
+               },
+               "end_address" : "Körfez, Yüce Rıfat Sk. No:6, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7627244,
+                  "lng" : 29.9571576
+               },
+               "start_address" : "M. Alipaşa, Adnan Menderes Blv. No:15, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7645187,
+                  "lng" : 29.9593628
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.763532,
+                        "lng" : 29.9592539
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eAdnan Menderes Blv.\u003c/b\u003e toward \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gyxwF_mzuDRAp@B~BR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645187,
+                        "lng" : 29.9593628
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 210
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635897,
+                        "lng" : 29.956838
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "asxwFilzuDKlCIpAGtAAZAN?@AN?NAN@XAD@H@FBDBFDDFF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.763532,
+                        "lng" : 29.9592539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.7632074,
+                        "lng" : 29.9570664
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDemokrasi Cd.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "msxwFg}yuD@?@?@??@@?@?@?@?@?@?@?@?@?@?@?@?@?@?@A@?@?@A@?@?@A@A@?@A@A@??A@?@A?A@??A@?DKBM?A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635897,
+                        "lng" : 29.956838
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 40.7627244,
+                        "lng" : 29.9571576
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqxwFu~yuDH?n@If@G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7632074,
+                        "lng" : 29.9570664
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gyxwF_mzuDdA@~BRKlCQfDCj@Cp@Bp@FLLLD@L?TCRKBCH[`BQ"
+         },
+         "summary" : "Adnan Menderes Blv. and Demokrasi Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

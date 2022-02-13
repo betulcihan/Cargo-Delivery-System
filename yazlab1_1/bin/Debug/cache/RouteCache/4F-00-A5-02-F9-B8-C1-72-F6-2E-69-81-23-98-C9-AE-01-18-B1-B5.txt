@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMR0iZOhPyxQRKdHvOwqEv_s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMR0iZOhPyxQRKdHvOwqEv_s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7729987,
+               "lng" : 29.9613029
+            },
+            "southwest" : {
+               "lat" : 40.7729987,
+               "lng" : 29.9613029
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yenişehir, Küçük Sk. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7729987,
+                  "lng" : 29.9613029
+               },
+               "start_address" : "Yenişehir, Küçük Sk. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7729987,
+                  "lng" : 29.9613029
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7729987,
+                        "lng" : 29.9613029
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKüçük Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gnzwFcyzuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7729987,
+                        "lng" : 29.9613029
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gnzwFcyzuD"
+         },
+         "summary" : "Küçük Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

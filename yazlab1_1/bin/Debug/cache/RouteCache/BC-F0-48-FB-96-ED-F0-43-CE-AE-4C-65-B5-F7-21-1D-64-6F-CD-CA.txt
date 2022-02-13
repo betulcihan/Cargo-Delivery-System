@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBcVN3vRPyxQRyKNWdL3SDQo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBcVN3vRPyxQRyKNWdL3SDQo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.761984,
+               "lng" : 29.951873
+            },
+            "southwest" : {
+               "lat" : 40.761984,
+               "lng" : 29.951873
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Şht. Ali Çalış Sk. No:16, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.761984,
+                  "lng" : 29.951873
+               },
+               "start_address" : "Körfez, Şht. Ali Çalış Sk. No:16, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.761984,
+                  "lng" : 29.951873
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.761984,
+                        "lng" : 29.951873
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eŞht. Hasan Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kixwFe~xuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.761984,
+                        "lng" : 29.951873
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kixwFe~xuD"
+         },
+         "summary" : "Şht. Hasan Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIRTKLQg-zBQRGSe5SOG_pyQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIRTKLQg-zBQRGSe5SOG_pyQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7705827,
+               "lng" : 30.5419955
+            },
+            "southwest" : {
+               "lat" : 39.7705827,
+               "lng" : 30.5419955
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Gökmeydan, Orkide Sk. No:27, 26100 Odunpazarı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7705827,
+                  "lng" : 30.5419955
+               },
+               "start_address" : "Gökmeydan, Orkide Sk. No:27, 26100 Odunpazarı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7705827,
+                  "lng" : 30.5419955
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7705827,
+                        "lng" : 30.5419955
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eOrkide Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cuvqFoflyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7705827,
+                        "lng" : 30.5419955
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cuvqFoflyD"
+         },
+         "summary" : "Orkide Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

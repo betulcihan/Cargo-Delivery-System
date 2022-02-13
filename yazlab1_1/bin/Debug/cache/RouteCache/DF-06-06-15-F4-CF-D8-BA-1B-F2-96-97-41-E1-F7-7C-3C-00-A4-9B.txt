@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJxbG_bGJFyxQReXuQ3Jz16UU",
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJxbG_bGJFyxQReXuQ3Jz16UU",
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7609072,
+               "lng" : 29.9435917
+            },
+            "southwest" : {
+               "lat" : 40.7609072,
+               "lng" : 29.9435917
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Gıda Toptancılar Sitesi No:10, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7609072,
+                  "lng" : 29.9435917
+               },
+               "start_address" : "Körfez, Gıda Toptancılar Sitesi No:10, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7609072,
+                  "lng" : 29.9435917
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7609072,
+                        "lng" : 29.9435917
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eGıda Toptancılar Sitesi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ubxwFmjwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7609072,
+                        "lng" : 29.9435917
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ubxwFmjwuD"
+         },
+         "summary" : "Gıda Toptancılar Sitesi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

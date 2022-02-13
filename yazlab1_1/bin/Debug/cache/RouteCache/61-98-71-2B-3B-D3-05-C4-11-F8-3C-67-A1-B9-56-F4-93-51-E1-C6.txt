@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ9_C0VBghyxQRzGZWduoQpmQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJawLX2RshyxQRs-AGfDlcllg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7998955,
+               "lng" : 29.4747155
+            },
+            "southwest" : {
+               "lat" : 40.7956331,
+               "lng" : 29.4716497
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 965
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 197
+               },
+               "end_address" : "Barış, 1804/2. Sk. No:15, 41400 Gebze/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7967141,
+                  "lng" : 29.4723281
+               },
+               "start_address" : "Barış, 1805. Sk. No:14, 41400 Gebze/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.79969,
+                  "lng" : 29.4737305
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "84 m",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.7998955,
+                        "lng" : 29.474694
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e1805. Sk.\u003c/b\u003e toward \u003cb\u003e1805/\u003cwbr/\u003e3. Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "au_xFyq{rDGe@AM_@kC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79969,
+                        "lng" : 29.4737305
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 474
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.7956331,
+                        "lng" : 29.4746418
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e1805/\u003cwbr/\u003e3. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kv_xFyw{rDb@AfA?b@Ab@?`@?@?b@?b@?fA?vB@z@Ab@?jBAZ?F?b@@V?R@VB\\F"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7998955,
+                        "lng" : 29.474694
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.796458,
+                        "lng" : 29.4716596
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e1804/\u003cwbr/\u003e2. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u{~wFow{rDEXG\\Wx@q@dBm@`B?BADMd@?BKf@Cf@Cl@@bA@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7956331,
+                        "lng" : 29.4746418
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7970136,
+                        "lng" : 29.4718766
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{`_xF{d{rD_A@C?CAEAAC[a@AC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.796458,
+                        "lng" : 29.4716596
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.7967141,
+                        "lng" : 29.4723281
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "id_xFgf{rDt@KDmA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7970136,
+                        "lng" : 29.4718766
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "au_xFyq{rDIs@_@kCb@AjBAdA?pC?bIA~A@j@D\\FEX_@vA_BfEOr@OnAApB@b@_A@GAe@k@t@KDmA"
+         },
+         "summary" : "1805/3. Sk. and 1804/2. Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

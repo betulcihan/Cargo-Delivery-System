@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zümrüt Sokak",
+               "short_name" : "Zümrüt Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kadıköy",
+               "short_name" : "Kadıköy",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41100",
+               "short_name" : "41100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kadıköy, Zümrüt Sk. No:81, 41100 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7662739,
+               "lng" : 29.9428963
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7676228802915,
+                  "lng" : 29.94424528029149
+               },
+               "southwest" : {
+                  "lat" : 40.76492491970851,
+                  "lng" : 29.9415473197085
+               }
+            }
+         },
+         "place_id" : "ChIJu5d188ZayxQRjL9vJLE4ebo",
+         "plus_code" : {
+            "compound_code" : "QW8V+G5 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW8V+G5"
+         },
+         "types" : [ "bicycle_store", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

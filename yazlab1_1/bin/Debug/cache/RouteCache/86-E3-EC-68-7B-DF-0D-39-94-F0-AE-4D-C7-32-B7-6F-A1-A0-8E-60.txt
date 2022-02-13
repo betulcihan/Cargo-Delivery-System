@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXUgY94pPyxQR9-6D28axKVI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXUgY94pPyxQR9-6D28axKVI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7619718,
+               "lng" : 29.948041
+            },
+            "southwest" : {
+               "lat" : 40.7619718,
+               "lng" : 29.948041
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Rıza Paşa Sk. No:1, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7619718,
+                  "lng" : 29.948041
+               },
+               "start_address" : "Körfez, Rıza Paşa Sk. No:1, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7619718,
+                  "lng" : 29.948041
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7619718,
+                        "lng" : 29.948041
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iixwFgfxuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7619718,
+                        "lng" : 29.948041
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iixwFgfxuD"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

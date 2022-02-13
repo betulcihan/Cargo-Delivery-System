@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sanayi Caddesi",
+               "short_name" : "Sanayi Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Körfez",
+               "short_name" : "Körfez",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41040",
+               "short_name" : "41040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Körfez, Sanayi Cd., 41040 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76409,
+               "lng" : 29.9396869
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7654389802915,
+                  "lng" : 29.9410358802915
+               },
+               "southwest" : {
+                  "lat" : 40.7627410197085,
+                  "lng" : 29.9383379197085
+               }
+            }
+         },
+         "place_id" : "ChIJAbJpYYhPyxQRjxjKppsQ9XE",
+         "plus_code" : {
+            "compound_code" : "QW7Q+JV İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW7Q+JV"
+         },
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      }
+   ],
+   "status" : "OK"
+}

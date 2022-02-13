@@ -1,0 +1,95 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJF462P4pPyxQRjliPSKzSCAA",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJF462P4pPyxQRjliPSKzSCAA",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7618984,
+               "lng" : 29.9461112
+            },
+            "southwest" : {
+               "lat" : 40.7618984,
+               "lng" : 29.9461112
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Tren İstasyonu, Oramiral Salim Dervişoğlu Cd., 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7618984,
+                  "lng" : 29.9461112
+               },
+               "start_address" : "Körfez, Tren İstasyonu, Oramiral Salim Dervişoğlu Cd., 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7618984,
+                  "lng" : 29.9461112
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7618984,
+                        "lng" : 29.9461112
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{hxwFezwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7618984,
+                        "lng" : 29.9461112
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{hxwFezwuD"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJa-e7CDZFyxQRX7kXjksu5X0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJa-e7CDZFyxQRX7kXjksu5X0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7360855,
+               "lng" : 29.9677771
+            },
+            "southwest" : {
+               "lat" : 40.7360855,
+               "lng" : 29.9677771
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Karadenizliler, Başyiğit Cd. No:188, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7360855,
+                  "lng" : 29.9677771
+               },
+               "start_address" : "Karadenizliler, Başyiğit Cd. No:188, 41140 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7360855,
+                  "lng" : 29.9677771
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7360855,
+                        "lng" : 29.9677771
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "qgswFsa|uD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7360855,
+                        "lng" : 29.9677771
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qgswFsa|uD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkVcr6dy50hQRgQEFdJVFxEI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkVcr6dy50hQRgQEFdJVFxEI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1660785,
+               "lng" : 31.9249695
+            },
+            "southwest" : {
+               "lat" : 40.1660785,
+               "lng" : 31.9249695
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Ayvaşık, Dr. Mustafa Güler Sk. No:27, 06730 Beypazarı/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 40.1660785,
+                  "lng" : 31.9249695
+               },
+               "start_address" : "Ayvaşık, Dr. Mustafa Güler Sk. No:27, 06730 Beypazarı/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 40.1660785,
+                  "lng" : 31.9249695
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1660785,
+                        "lng" : 31.9249695
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eUlusoy Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}ctFajzaE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1660785,
+                        "lng" : 31.9249695
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_}ctFajzaE"
+         },
+         "summary" : "Ulusoy Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

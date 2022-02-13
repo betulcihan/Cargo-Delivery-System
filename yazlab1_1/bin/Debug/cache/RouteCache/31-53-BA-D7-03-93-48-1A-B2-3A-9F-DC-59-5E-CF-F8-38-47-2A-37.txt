@@ -1,0 +1,299 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJUzXqt-hPyxQRHQA9Q3AUlYA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkabNWx5QyxQRERxVrd9MeSM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7709398,
+               "lng" : 29.9768308
+            },
+            "southwest" : {
+               "lat" : 40.7671917,
+               "lng" : 29.9606114
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1935
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 358
+               },
+               "end_address" : "Yahyakaptan, Kızılay Sk. No:4, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7677668,
+                  "lng" : 29.9768308
+               },
+               "start_address" : "Yenişehir, İpek Sk. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7709398,
+                  "lng" : 29.9611817
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "48 m",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.7709227,
+                        "lng" : 29.9606114
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eİpek Sk.\u003c/b\u003e toward \u003cb\u003eÖzden Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kazwFkxzuDBpB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7709398,
+                        "lng" : 29.9611817
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.7700131,
+                        "lng" : 29.9608188
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eÖzden Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gazwFytzuDfBOlAY"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7709227,
+                        "lng" : 29.9606114
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7693796,
+                        "lng" : 29.96100689999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eYalı Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q{ywFcvzuDRSFGXGBAXCh@B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7700131,
+                        "lng" : 29.9608188
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.76917479999999,
+                        "lng" : 29.9631048
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBulut Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "swywFiwzuDA}@?e@@[Py@NuAFqC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7693796,
+                        "lng" : 29.96100689999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.76788,
+                        "lng" : 29.9630304
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Selçuk Gökdağ Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivywFkd{uDzBBdCH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76917479999999,
+                        "lng" : 29.9631048
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 40.7675762,
+                        "lng" : 29.9672784
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGazi Mustafa Kemal Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gnywF}c{uDT?BgBBcCD}CFuCD{C@cAFqA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76788,
+                        "lng" : 29.9630304
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.7675193,
+                        "lng" : 29.96917639999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eBaşak Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "klywFo~{uD@?@ABA@?BA@A@A@A@C@A@C?C@C@C?C?C@C?C?C?C?CAC?CAC?CAACEACAAAA?CAACAAAAABiA?a@?i@@{B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7675762,
+                        "lng" : 29.9672784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 490
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672467,
+                        "lng" : 29.9749751
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eNecip Fazıl Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_lywFkj|uDB_AB}CF{DDwEHsD@YDqC@w@DaAD{@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7675193,
+                        "lng" : 29.96917639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 223
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.7687904,
+                        "lng" : 29.976269
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eSarı Mimoza Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ijywFsn}uD@?@A?A@??A@A?A?A@A?A?A?A@A?A?A?E?A?C?AAA?CAA?AAC?AAAAA?AAAA?AAAAA?AAA?AAC?A?A?A@A?A?A@A?A@AAMG{@e@qA{@}AaAUQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672467,
+                        "lng" : 29.9749751
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7677668,
+                        "lng" : 29.9768308
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKızılay Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}sywFuv}uDV_@DGHGJEzAQXGNIPU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7687904,
+                        "lng" : 29.976269
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kazwFkxzuDBpBfBOlAYRSFGXG\\Eh@BA}@@aAPy@NuAFqCzBBzCHFkFLsHF_FHqADCHEJ[?_@M[IGDqGTqRRwKN_CBEBOCWIOQGOBiAm@oD}BUQV_@NOfBWh@QPU"
+         },
+         "summary" : "Necip Fazıl Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

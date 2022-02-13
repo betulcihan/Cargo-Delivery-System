@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrdFRgoxPyxQRp9hvSJ4CW8s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkb9aII1PyxQRdBW3Wqdiwl4",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7672618,
+               "lng" : 29.95167319999999
+            },
+            "southwest" : {
+               "lat" : 40.7649939,
+               "lng" : 29.9484452
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 665
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 134
+               },
+               "end_address" : "M. Alipaşa, Doğu Kışla Youth Park, Köse Sk. No:36, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7656079,
+                  "lng" : 29.9513562
+               },
+               "start_address" : "Kadıköy, Esendal Sk. 43a, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7649939,
+                  "lng" : 29.9484452
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672618,
+                        "lng" : 29.9489832
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eEsendal Sk.\u003c/b\u003e toward \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e|xwFyhxuDOAQEaCc@aH}@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7649939,
+                        "lng" : 29.9484452
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 229
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kjywFclxuDFk@Fm@By@B{@?Q@}A?wAAi@Km@AG@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672618,
+                        "lng" : 29.9489832
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.7656079,
+                        "lng" : 29.9513562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKöse Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_jywF}|xuDrAR^BrBVtAL"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e|xwFyhxuDa@GaCc@aH}@NyAFuB?qFMu@@a@rARrCZtAL"
+         },
+         "summary" : "Esendal Sk., Bağdat Cd. and Köse Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

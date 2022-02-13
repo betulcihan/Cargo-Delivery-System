@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZVv-q3FwEkARbnqQ4D4Ueeo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZVv-q3FwEkARbnqQ4D4Ueeo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.5012209,
+               "lng" : 43.372905
+            },
+            "southwest" : {
+               "lat" : 38.5012209,
+               "lng" : 43.372905
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Alipaşa, Kazım Karabekir Blv. No:196, 65130 Van Merkez/Van, Turkey",
+               "end_location" : {
+                  "lat" : 38.5012209,
+                  "lng" : 43.372905
+               },
+               "start_address" : "Alipaşa, Kazım Karabekir Blv. No:196, 65130 Van Merkez/Van, Turkey",
+               "start_location" : {
+                  "lat" : 38.5012209,
+                  "lng" : 43.372905
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.5012209,
+                        "lng" : 43.372905
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİpek Yolu Cd.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD300\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sw~iFsgvgG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.5012209,
+                        "lng" : 43.372905
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sw~iFsgvgG"
+         },
+         "summary" : "İpek Yolu Cd./D300",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

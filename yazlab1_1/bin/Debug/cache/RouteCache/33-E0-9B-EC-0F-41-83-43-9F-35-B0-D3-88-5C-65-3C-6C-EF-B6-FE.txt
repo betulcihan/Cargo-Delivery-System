@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ91hhqO250hQRUzf68vhUvro",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ91hhqO250hQRUzf68vhUvro",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1622086,
+               "lng" : 31.9151159
+            },
+            "southwest" : {
+               "lat" : 40.1622086,
+               "lng" : 31.9151159
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kurtuluş, Meteoroloji 2. Sk. No:2, 06730 Beypazarı/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 40.1622086,
+                  "lng" : 31.9151159
+               },
+               "start_address" : "Kurtuluş, Meteoroloji 2. Sk. No:2, 06730 Beypazarı/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 40.1622086,
+                  "lng" : 31.9151159
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1622086,
+                        "lng" : 31.9151159
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKaranfil Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ydctFolxaE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1622086,
+                        "lng" : 31.9151159
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ydctFolxaE"
+         },
+         "summary" : "Karanfil Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

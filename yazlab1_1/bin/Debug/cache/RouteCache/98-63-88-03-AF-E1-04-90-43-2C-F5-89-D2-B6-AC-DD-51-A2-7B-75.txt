@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJRPzNpJPyxQRT-OLYNk7U1U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJRPzNpJPyxQRT-OLYNk7U1U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7721674,
+               "lng" : 29.9463969
+            },
+            "southwest" : {
+               "lat" : 40.7721674,
+               "lng" : 29.9463969
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Erenler, Kanlıbağ Sk. No:32, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7721674,
+                  "lng" : 29.9463969
+               },
+               "start_address" : "Erenler, Kanlıbağ Sk. No:32, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7721674,
+                  "lng" : 29.9463969
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7721674,
+                        "lng" : 29.9463969
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKanlıbağ Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aizwF_|wuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7721674,
+                        "lng" : 29.9463969
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aizwF_|wuD"
+         },
+         "summary" : "Kanlıbağ Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

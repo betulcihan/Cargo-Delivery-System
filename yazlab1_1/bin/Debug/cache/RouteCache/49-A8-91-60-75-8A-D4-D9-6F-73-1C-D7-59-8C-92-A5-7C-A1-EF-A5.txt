@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq0guMopPyxQRlk8smGVUpjQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq0guMopPyxQRlk8smGVUpjQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7625827,
+               "lng" : 29.9451454
+            },
+            "southwest" : {
+               "lat" : 40.7625827,
+               "lng" : 29.9451454
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez Mh., Suna Sk No:1, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7625827,
+                  "lng" : 29.9451454
+               },
+               "start_address" : "Körfez Mh., Suna Sk No:1, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7625827,
+                  "lng" : 29.9451454
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7625827,
+                        "lng" : 29.9451454
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİstanbul İzmit Yanyolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cmxwFetwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7625827,
+                        "lng" : 29.9451454
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cmxwFetwuD"
+         },
+         "summary" : "İstanbul İzmit Yanyolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

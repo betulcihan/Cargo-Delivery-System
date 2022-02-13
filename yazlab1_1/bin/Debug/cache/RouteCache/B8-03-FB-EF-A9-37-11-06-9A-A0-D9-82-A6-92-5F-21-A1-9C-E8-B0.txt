@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJawLX2RshyxQRs-AGfDlcllg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJawLX2RshyxQRs-AGfDlcllg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7967141,
+               "lng" : 29.4723281
+            },
+            "southwest" : {
+               "lat" : 40.7967141,
+               "lng" : 29.4723281
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Barış, 1804/2. Sk. No:15, 41400 Gebze/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7967141,
+                  "lng" : 29.4723281
+               },
+               "start_address" : "Barış, 1804/2. Sk. No:15, 41400 Gebze/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7967141,
+                  "lng" : 29.4723281
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7967141,
+                        "lng" : 29.4723281
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "mb_xFai{rD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7967141,
+                        "lng" : 29.4723281
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mb_xFai{rD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

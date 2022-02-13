@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJg2yFE4lPyxQRLrW6jqx8kzM",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv_MFr_NPyxQRYNf8OJJlpAs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7672037,
+               "lng" : 29.9546259
+            },
+            "southwest" : {
+               "lat" : 40.7640365,
+               "lng" : 29.9432665
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1471
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 231
+               },
+               "end_address" : "M. Alipaşa, Demiryolu Sk. No:10, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7651232,
+                  "lng" : 29.9544877
+               },
+               "start_address" : "Körfez, Şht. Rafet Karacan Blv No:40, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.764386,
+                  "lng" : 29.9433574
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "83 m",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651302,
+                        "lng" : 29.9432665
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxxwF_iwuDsCP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.764386,
+                        "lng" : 29.9433574
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 657
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 40.7640365,
+                        "lng" : 29.9509285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a}xwFmhwuDLeB?ADm@RkCDo@\\kE?C?C@I@G@O?CNkBJ{ATyD@MBQ?E@GlA_O"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651302,
+                        "lng" : 29.9432665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 362
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKöse Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gvxwFixxuDQCEOCECAAAAA[C_AOw@KwEc@sBW_@CsAS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7640365,
+                        "lng" : 29.9509285
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671745,
+                        "lng" : 29.9520947
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_jywF}|xuDBy@@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.765619,
+                        "lng" : 29.9546259
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eBağdat Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yiywFq_yuDRYDM@IDOJORk@Zs@^s@R_@t@oAXu@HYhAuA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671745,
+                        "lng" : 29.9520947
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651232,
+                        "lng" : 29.9544877
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDemiryolu Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c`ywFmoyuDf@Lz@L"
+                     },
+                     "start_location" : {
+                        "lat" : 40.765619,
+                        "lng" : 29.9546259
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxxwF_iwuDsCPLeBDo@v@kKDe@p@eKFm@lA_OQCIUc@IwB[kI{@sBWDsAXg@FY^{@z@gBhAoBb@oAhAuAf@Lz@L"
+         },
+         "summary" : "Şht. Rafet Karacan Blv",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

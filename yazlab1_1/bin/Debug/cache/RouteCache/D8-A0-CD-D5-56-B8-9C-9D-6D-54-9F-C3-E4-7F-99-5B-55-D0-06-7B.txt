@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJxdfGDvAkyxQRfPHTTVNup1w",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJxdfGDvAkyxQRfPHTTVNup1w",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8228217,
+               "lng" : 29.56948989999999
+            },
+            "southwest" : {
+               "lat" : 40.8228217,
+               "lng" : 29.56948989999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 41455 Demirciler Osb/Dilovası/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8228217,
+                  "lng" : 29.56948989999999
+               },
+               "start_address" : "Unnamed Road, 41455 Demirciler Osb/Dilovası/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8228217,
+                  "lng" : 29.56948989999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8228217,
+                        "lng" : 29.56948989999999
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "sedxFihnsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8228217,
+                        "lng" : 29.56948989999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sedxFihnsD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

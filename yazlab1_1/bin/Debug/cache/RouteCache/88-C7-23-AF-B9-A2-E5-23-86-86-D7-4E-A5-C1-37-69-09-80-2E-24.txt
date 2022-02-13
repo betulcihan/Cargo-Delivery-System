@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-TlCBmpO0xQRgzV-P5CqJIg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-TlCBmpO0xQRgzV-P5CqJIg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9350425,
+               "lng" : 32.8710866
+            },
+            "southwest" : {
+               "lat" : 39.9350425,
+               "lng" : 32.8710866
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Sakarya, Öksüzler Sk. No:54, 06230 Altındağ/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9350425,
+                  "lng" : 32.8710866
+               },
+               "start_address" : "Sakarya, Öksüzler Sk. No:54, 06230 Altındağ/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9350425,
+                  "lng" : 32.8710866
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9350425,
+                        "lng" : 32.8710866
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eÖksüzler Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_yvrFicsgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9350425,
+                        "lng" : 32.8710866
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_yvrFicsgE"
+         },
+         "summary" : "Öksüzler Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJoZkWtvs9yhQRSM_DAm0T4NI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJoZkWtvs9yhQRSM_DAm0T4NI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1830297,
+               "lng" : 29.053311
+            },
+            "southwest" : {
+               "lat" : 40.1830297,
+               "lng" : 29.053311
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Mollagürani, 2. Tahtalı Sk. 8-1, 16040 Osmangazi/Bursa, Turkey",
+               "end_location" : {
+                  "lat" : 40.1830297,
+                  "lng" : 29.053311
+               },
+               "start_address" : "Mollagürani, 2. Tahtalı Sk. 8-1, 16040 Osmangazi/Bursa, Turkey",
+               "start_location" : {
+                  "lat" : 40.1830297,
+                  "lng" : 29.053311
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1830297,
+                        "lng" : 29.053311
+                     },
+                     "html_instructions" : "Head on \u003cb\u003e2. Tahtalı Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}fgtFenipD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1830297,
+                        "lng" : 29.053311
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}fgtFenipD"
+         },
+         "summary" : "2. Tahtalı Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW_ERNfJPyxQRiIruuRY_kPc",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLXfdmOxPyxQRKE2MBKmg26E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7726463,
+               "lng" : 29.9552058
+            },
+            "southwest" : {
+               "lat" : 40.7651382,
+               "lng" : 29.9505777
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1137
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 219
+               },
+               "end_address" : "M. Alipaşa, Turan Güneş Cd. No:244, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7726463,
+                  "lng" : 29.9526352
+               },
+               "start_address" : "M. Alipaşa, Bağdat Cd. No:249, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7651382,
+                  "lng" : 29.9552058
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 334
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eBağdat Cd.\u003c/b\u003e toward \u003cb\u003eŞht. Ahmet Yakut Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c}xwFasyuDOTu@`AYZiAtAIXYt@u@nAS^_@r@[r@Sj@KNIDUD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651382,
+                        "lng" : 29.9552058
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 602
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.7721506,
+                        "lng" : 29.9506863
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eZincirlikuyu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wiywFgayuDM@?R?\\CPEPGHUNkAC_ABc@Bc@Dc@DyAJcBXw@JO?k@NA@_BPQBs@H{@V_ATk@Za@PSJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671613,
+                        "lng" : 29.9523551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.7726463,
+                        "lng" : 29.9526352
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}hzwFyvxuDe@TIQAqASkBEc@GgAO_B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7721506,
+                        "lng" : 29.9506863
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "c}xwFasyuDiDhEc@nAiAnB{@fB_@z@_@JM@?RCn@MZUNkACcBFgAJyAJcBXgAJm@PqBTs@H{@V_ATk@Zu@\\e@TIQAqASkBMkBO_B"
+         },
+         "summary" : "Bağdat Cd. and Zincirlikuyu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

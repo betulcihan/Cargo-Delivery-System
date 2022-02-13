@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNzUe2fZO0xQR1SF2UeyAJXY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNzUe2fZO0xQR1SF2UeyAJXY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9350912,
+               "lng" : 32.8491443
+            },
+            "southwest" : {
+               "lat" : 39.9350912,
+               "lng" : 32.8491443
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Doğanbey, Talatpaşa Blv No:34, 06050 Altındağ/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9350912,
+                  "lng" : 32.8491443
+               },
+               "start_address" : "Doğanbey, Talatpaşa Blv No:34, 06050 Altındağ/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9350912,
+                  "lng" : 32.8491443
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9350912,
+                        "lng" : 32.8491443
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eTalatpaşa Blv\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iyvrFczngE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9350912,
+                        "lng" : 32.8491443
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iyvrFczngE"
+         },
+         "summary" : "Talatpaşa Blv",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

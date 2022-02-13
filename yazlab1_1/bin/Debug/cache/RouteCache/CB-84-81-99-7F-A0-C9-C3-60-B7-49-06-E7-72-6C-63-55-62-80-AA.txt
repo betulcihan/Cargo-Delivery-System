@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG8S1C2NFyxQR4LQ8IVse1xw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG8S1C2NFyxQR4LQ8IVse1xw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.758726,
+               "lng" : 29.9421775
+            },
+            "southwest" : {
+               "lat" : 40.758726,
+               "lng" : 29.9421775
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Karabaş, Heykel Sk. No:4, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.758726,
+                  "lng" : 29.9421775
+               },
+               "start_address" : "Karabaş, Heykel Sk. No:4, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.758726,
+                  "lng" : 29.9421775
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.758726,
+                        "lng" : 29.9421775
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "auwwFsawuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.758726,
+                        "lng" : 29.9421775
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "auwwFsawuD"
+         },
+         "summary" : "Ömer Türkçakal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYyG-x5a5yhQRb6N_OzxoIeA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYyG-x5a5yhQRb6N_OzxoIeA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0089678,
+               "lng" : 28.9712506
+            },
+            "southwest" : {
+               "lat" : 41.0089678,
+               "lng" : 28.9712506
+            }
+         },
+         "copyrights" : "Map data ©2021 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Mollafenari, Vezirhan Cd. No:3, 34120 Fatih/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0089678,
+                  "lng" : 28.9712506
+               },
+               "start_address" : "Mollafenari, Vezirhan Cd. No:3, 34120 Fatih/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0089678,
+                  "lng" : 28.9712506
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.0089678,
+                        "lng" : 28.9712506
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVezirhan Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aqhyFimyoD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0089678,
+                        "lng" : 28.9712506
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aqhyFimyoD"
+         },
+         "summary" : "Vezirhan Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

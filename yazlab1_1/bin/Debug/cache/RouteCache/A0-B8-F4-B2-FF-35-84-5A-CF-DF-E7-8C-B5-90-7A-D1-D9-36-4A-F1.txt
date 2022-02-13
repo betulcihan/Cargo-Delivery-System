@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDVxCW41PyxQRQGF-dEyCpzA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLSZDE5BPyxQRAFGoo5qFMNQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7729276,
+               "lng" : 29.9499496
+            },
+            "southwest" : {
+               "lat" : 40.7682773,
+               "lng" : 29.9401796
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1629
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 333
+               },
+               "end_address" : "Erenler Mh., Gazanfer Bilge Blv. No:62, 41060 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7729276,
+                  "lng" : 29.9402063
+               },
+               "start_address" : "Kadıköy, Selahattin Mutlu Sk. No:54, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7687289,
+                  "lng" : 29.9499038
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.7682773,
+                        "lng" : 29.9499496
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eSelahattin Mutlu Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qsywF{qxuDRAdAG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7687289,
+                        "lng" : 29.9499038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7691225,
+                        "lng" : 29.9493828
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKanuni Sultan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wpywFerxuDExBaDG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7682773,
+                        "lng" : 29.9499496
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7691542,
+                        "lng" : 29.9484401
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKanuni Sultan Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_vywFsnxuDAr@CfC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7691225,
+                        "lng" : 29.9493828
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.7705902,
+                        "lng" : 29.9478053
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZiya Gökalp Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "evywFwhxuDsBWIAO@E@OH{BhC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7691542,
+                        "lng" : 29.9484401
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 680
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e_zwFydxuDz@dALNJLLPN^Lf@@VDj@@X?J?FGt@KdACj@AX@ZBr@Bb@Hf@Np@ZjBVjCFXPf@n@rBX~@l@bDj@fB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7705902,
+                        "lng" : 29.9478053
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 40.7729276,
+                        "lng" : 29.9402063
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}rywF_wvuDUXa@Hy@LMBKBI@M?UCMEOGOIA?MIWOGC[KEASEc@COAI?_@Ac@@Y@_AZg@Ki@HA?{ARMBa@FgANI@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7686286,
+                        "lng" : 29.940482
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qsywF{qxuDxAIExBaDGEzD}BYUBOH{BhChAtAX^\\fAFbA@d@G|@OpB?t@FvAXxAZjBVjCX`AhArDl@bDj@fBUXa@HgAPUDc@Co@WiAi@mAMgB@_AZg@Kk@HsEn@I@"
+         },
+         "summary" : "Turan Güneş Cd. and Gazanfer Bilge Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXdraxfJPyxQRpuYD4butTGk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJD3CKa4xPyxQRvyzNOREks9M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7672037,
+               "lng" : 29.95167319999999
+            },
+            "southwest" : {
+               "lat" : 40.7641331,
+               "lng" : 29.9468725
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 867
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 175
+               },
+               "end_address" : "Kadıköy, Zümrüt Sk. No:24, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7660361,
+                  "lng" : 29.9468725
+               },
+               "start_address" : "M. Alipaşa, Köse Sk. No:46, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7672037,
+                  "lng" : 29.95167319999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 351
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 40.7641331,
+                        "lng" : 29.950953
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eKöse Sk.\u003c/b\u003e toward \u003cb\u003eBuğra Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_jywF}|xuDrAR^BrBVvEb@v@J~@NZB@@@@B@BDDN"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7672037,
+                        "lng" : 29.95167319999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 222
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645782,
+                        "lng" : 29.9483872
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yvxwFmxxuDGh@iAzLCNCH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7641331,
+                        "lng" : 29.950953
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.7658099,
+                        "lng" : 29.9486731
+                     },
+                     "html_instructions" : "\u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eEsendal Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "syxwFmhxuDIBIAOA}@MQEaCc@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645782,
+                        "lng" : 29.9483872
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.7660361,
+                        "lng" : 29.9468725
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eZümrüt Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iaywFejxuDUtCMfBEbACd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7658099,
+                        "lng" : 29.9486731
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_jywF}|xuDrBVjIz@tC`@DBHTqAdNGXS@mAOsCi@c@|FIhB"
+         },
+         "summary" : "Köse Sk. and Şht. Rafet Karacan Blv",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

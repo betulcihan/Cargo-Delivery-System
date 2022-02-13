@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akçakoca Sokak",
+               "short_name" : "Akçakoca Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orhan",
+               "short_name" : "Orhan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41200",
+               "short_name" : "41200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Orhan, Akçakoca Sk., 41200 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7682461,
+                  "lng" : 29.921469
+               },
+               "southwest" : {
+                  "lat" : 40.7676646,
+                  "lng" : 29.9207461
+               }
+            },
+            "location" : {
+               "lat" : 40.7678344,
+               "lng" : 29.9210981
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76930433029149,
+                  "lng" : 29.9224565302915
+               },
+               "southwest" : {
+                  "lat" : 40.7666063697085,
+                  "lng" : 29.9197585697085
+               }
+            }
+         },
+         "place_id" : "ChIJg70bWYdFyxQRp-8qXaRTHLg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

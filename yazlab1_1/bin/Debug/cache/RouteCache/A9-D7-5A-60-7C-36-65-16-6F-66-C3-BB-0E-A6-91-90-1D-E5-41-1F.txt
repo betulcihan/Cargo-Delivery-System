@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmcnsnwRQyxQR2-NkFFyKnEY",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmcnsnwRQyxQR2-NkFFyKnEY",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7593285,
+               "lng" : 29.9801767
+            },
+            "southwest" : {
+               "lat" : 40.7593285,
+               "lng" : 29.9801767
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Ovacık, Adapazarı İzmit Yolu No:34, 41140 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7593285,
+                  "lng" : 29.9801767
+               },
+               "start_address" : "Ovacık, Adapazarı İzmit Yolu No:34, 41140 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7593285,
+                  "lng" : 29.9801767
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7593285,
+                        "lng" : 29.9801767
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "yxwwFco~uD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7593285,
+                        "lng" : 29.9801767
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yxwwFco~uD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

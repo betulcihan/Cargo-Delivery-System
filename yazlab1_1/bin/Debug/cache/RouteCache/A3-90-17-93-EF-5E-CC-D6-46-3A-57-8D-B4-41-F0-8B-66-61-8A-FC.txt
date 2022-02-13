@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVyHOxOhayxQRxIyo96vKu3Y",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJi57BFOFEyxQR4_WHBT-OAa0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.72937400000001,
+               "lng" : 30.0031967
+            },
+            "southwest" : {
+               "lat" : 40.7192876,
+               "lng" : 29.9466633
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.8 km",
+                  "value" : 5784
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 686
+               },
+               "end_address" : "Yeşilyurt, Şht. Astsubay Çvş. Bilge İlhan Sk. 334 A, 41190 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7203137,
+                  "lng" : 29.9466633
+               },
+               "start_address" : "Rahmiye, Unnamed Road, 41285 Kartepe/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7192876,
+                  "lng" : 30.0013003
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.7193773,
+                        "lng" : 30.0031861
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q~owFcsbvDOYEMAIAG?I?K?W@}@BaC@qA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7192876,
+                        "lng" : 30.0013003
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 377
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 40.7226506,
+                        "lng" : 30.002272
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c_pwF}~bvDW@m@?eA@k@CKAK?Q@M@WHc@LoA\\IBeA^{@VeAZg@PWT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7193773,
+                        "lng" : 30.0031861
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.8 km",
+                        "value" : 4781
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 506
+                     },
+                     "end_location" : {
+                        "lat" : 40.7226948,
+                        "lng" : 29.9504656
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKaramürsel Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qspwFeybvDDBBBBDBJLz@`@rDJ~@x@rHb@`EBp@@`@@TAVCTGVABABCDa@b@UXUXw@tAEHEHCBCFADGPERCNATCbBCx@Gv@ShBIv@ERa@~BMfBMxAAT?dA?f@YzCMdBq@jFGh@Gj@Gb@C\\Ch@AXAxB?\\C\\CRAD?DABAFIXInAa@t@ABa@z@GJUf@Qb@Od@Ob@St@Ob@Md@IROb@sAxDo@hBwA|E]hACJMb@Ob@Ux@cAhDSn@oDbMiAtEMb@Mb@]~AJnB_@tBMb@Mj@Kh@A@c@dCQbECv@Av@Ah@?j@?^@t@BbAH|ARfCDt@Fh@B\\BRHl@BXBRFl@^vDBPB\\LzAFl@Fn@Dl@d@xE@Tj@~EFl@L~@ZlBBJZ`B?Bv@lCh@`BRn@DLl@lCj@jADb@j@bBn@nBx@fC|@lCZz@l@dBFRb@pA\\dAb@lAdBtCPr@\\bADJfAtC^z@j@p@zA~A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7226506,
+                        "lng" : 30.002272
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 40.72066179999999,
+                        "lng" : 29.9484767
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eÇuhadar Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yspwFmuxuDh@\\j@d@n@n@v@~@tBzBNR`@^n@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7226948,
+                        "lng" : 29.9504656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.7201741,
+                        "lng" : 29.9476929
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eÇuhadar Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "cgpwF_ixuD?@A@?@?@?@?@?@?@?@?@?@?@@??B@@?@@@?@@??@@??@@?@@@@@?@?nApB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.72066179999999,
+                        "lng" : 29.9484767
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7203137,
+                        "lng" : 29.9466633
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eŞht. Astsubay Çvş. Bilge İlhan Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "adpwFadxuDA@?@?@?@EDEBCHAJARCr@?FAl@?f@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7201741,
+                        "lng" : 29.9476929
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q~owFcsbvDUg@CQ@kBDsEeA@iCC_@B{@V{ExAmBl@WTHFFPtBbRb@`EBp@Bv@El@IZ}@fAUXw@tAKRQb@Ib@ExBKpB]`Dg@rC[`EAzA?f@YzCMdBq@jFOtAK`AEbAAvCGp@EVIXInAc@x@qArC_@hAc@xAWx@cB|Eo@hBwA|Ea@tAwBjHcErNwAxFk@bCJnB_@tB[nAMj@c@dCQbEEnB?jDL`DX|DXhCn@rGrAfOr@lGh@lD^lBv@pC|@pCr@zCj@jADb@zArE`EvLlBxFdBtCPr@b@nAfBpEfCpCh@\\j@d@fBnBdCnCpAhAAD?F@LFHHDlArBEJILC^EpC"
+         },
+         "summary" : "Karamürsel Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

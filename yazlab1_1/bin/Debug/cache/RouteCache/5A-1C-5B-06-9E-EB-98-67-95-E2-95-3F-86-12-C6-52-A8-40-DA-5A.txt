@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-4XpYpPyxQR9KXI9mNA_sI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-4XpYpPyxQR9KXI9mNA_sI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.760363,
+               "lng" : 29.950183
+            },
+            "southwest" : {
+               "lat" : 40.760363,
+               "lng" : 29.950183
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Şht. Basri Sk. No:23, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.760363,
+                  "lng" : 29.950183
+               },
+               "start_address" : "Körfez, Şht. Basri Sk. No:23, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.760363,
+                  "lng" : 29.950183
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.760363,
+                        "lng" : 29.950183
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eŞht. Basri Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g_xwFssxuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.760363,
+                        "lng" : 29.950183
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g_xwFssxuD"
+         },
+         "summary" : "Şht. Basri Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

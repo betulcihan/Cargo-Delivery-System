@@ -1,0 +1,253 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJteceuvpPyxQRaK9w3H-KutQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQYO9rfFPyxQR-mVqwp8OY_8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7652765,
+               "lng" : 29.96356
+            },
+            "southwest" : {
+               "lat" : 40.7632391,
+               "lng" : 29.95752179999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1049
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 270
+               },
+               "end_address" : "M. Alipaşa, Adnan Menderes Blv. No:15, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7645187,
+                  "lng" : 29.9593628
+               },
+               "start_address" : "Yenişehir, Altıntaş Sk. No:5, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.764466,
+                  "lng" : 29.96356
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645158,
+                        "lng" : 29.9629088
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eAltıntaş Sk.\u003c/b\u003e toward \u003cb\u003eKaranfilli Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}xxwFgg{uDAf@GxA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.764466,
+                        "lng" : 29.96356
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.7632391,
+                        "lng" : 29.9627315
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCoşkunlar Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gyxwFec{uD~Fb@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7645158,
+                        "lng" : 29.9629088
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635903,
+                        "lng" : 29.958536
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eDemokrasi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gqxwFab{uDIxAM|CMtC_@vCLzBATKlC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7632391,
+                        "lng" : 29.9627315
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7640262,
+                        "lng" : 29.9585751
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eErdem Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "msxwF{gzuDwAG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635903,
+                        "lng" : 29.958536
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "88 m",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.7640464,
+                        "lng" : 29.957532
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eErdem Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "evxwFchzuDCpE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7640262,
+                        "lng" : 29.9585751
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 133
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.76524209999999,
+                        "lng" : 29.95752179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eErdem Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivxwFqazuD{B@qB?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7640464,
+                        "lng" : 29.957532
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.7652765,
+                        "lng" : 29.9591302
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eİsmail Dal Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w}xwFoazuDCmCCsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76524209999999,
+                        "lng" : 29.95752179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.7645187,
+                        "lng" : 29.9593628
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdnan Menderes Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_~xwFqkzuDr@[PEt@KZ?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7652765,
+                        "lng" : 29.9591302
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}xxwFgg{uDI`C~Fb@IxA[rH_@vCLzBMbDwAGCpEmF@GaIdAa@t@KZ?"
+         },
+         "summary" : "Demokrasi Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

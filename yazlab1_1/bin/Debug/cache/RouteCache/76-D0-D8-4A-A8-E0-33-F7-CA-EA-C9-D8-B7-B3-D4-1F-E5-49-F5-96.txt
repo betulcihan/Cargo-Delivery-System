@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG-KqFjxZyxQRunDdVrtUfC8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG-KqFjxZyxQRunDdVrtUfC8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.6586613,
+               "lng" : 30.092879
+            },
+            "southwest" : {
+               "lat" : 40.6586613,
+               "lng" : 30.092879
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Nusretiye, Eski Maden Yolu, 41250 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.6586613,
+                  "lng" : 30.092879
+               },
+               "start_address" : "Nusretiye, Eski Maden Yolu, 41250 Kartepe/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.6586613,
+                  "lng" : 30.092879
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.6586613,
+                        "lng" : 30.092879
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eEski Maden Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "scdwFootvD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6586613,
+                        "lng" : 30.092879
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "scdwFootvD"
+         },
+         "summary" : "Eski Maden Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

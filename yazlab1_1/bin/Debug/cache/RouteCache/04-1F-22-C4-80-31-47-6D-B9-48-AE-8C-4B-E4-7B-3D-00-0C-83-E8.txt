@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_09gClA-zBQRBPPf2bqd0_E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_09gClA-zBQRBPPf2bqd0_E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7917056,
+               "lng" : 30.5643904
+            },
+            "southwest" : {
+               "lat" : 39.7917056,
+               "lng" : 30.5643904
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Fevziçakmak, Benzinlik Sk. No:66, 26230 Tepebaşı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7917056,
+                  "lng" : 30.5643904
+               },
+               "start_address" : "Fevziçakmak, Benzinlik Sk. No:66, 26230 Tepebaşı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7917056,
+                  "lng" : 30.5643904
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7917056,
+                        "lng" : 30.5643904
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "eyzqFmrpyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7917056,
+                        "lng" : 30.5643904
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eyzqFmrpyD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

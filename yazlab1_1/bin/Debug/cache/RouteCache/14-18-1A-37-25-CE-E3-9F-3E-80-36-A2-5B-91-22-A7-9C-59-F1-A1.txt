@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1wocf6FayxQRttYRrsFJK0U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1wocf6FayxQRttYRrsFJK0U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7428072,
+               "lng" : 29.9910912
+            },
+            "southwest" : {
+               "lat" : 40.7428072,
+               "lng" : 29.9910912
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Gaziler, Çuhane Cd. No:99, 41250 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7428072,
+                  "lng" : 29.9910912
+               },
+               "start_address" : "Gaziler, Çuhane Cd. No:99, 41250 Kartepe/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7428072,
+                  "lng" : 29.9910912
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7428072,
+                        "lng" : 29.9910912
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "qqtwFis`vD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7428072,
+                        "lng" : 29.9910912
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qqtwFis`vD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdVnJEGFFyxQR1qUjB0VDSv0",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdVnJEGFFyxQR1qUjB0VDSv0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7573794,
+               "lng" : 29.9465703
+            },
+            "southwest" : {
+               "lat" : 40.7573794,
+               "lng" : 29.9465703
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Sanayi, Unnamed Road, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7573794,
+                  "lng" : 29.9465703
+               },
+               "start_address" : "Sanayi, Unnamed Road, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7573794,
+                  "lng" : 29.9465703
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7573794,
+                        "lng" : 29.9465703
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "slwwFa}wuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7573794,
+                        "lng" : 29.9465703
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "slwwFa}wuD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

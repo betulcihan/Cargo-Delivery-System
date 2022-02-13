@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3d4n-Op9j4AR7r-nYVNINr0",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3d4n-Op9j4AR7r-nYVNINr0",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.7401887,
+               "lng" : -122.4665815
+            },
+            "southwest" : {
+               "lat" : 37.7401887,
+               "lng" : -122.4665815
+            }
+         },
+         "copyrights" : "Map data ©2021 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "60 W Portal Ave, San Francisco, CA 94127, USA",
+               "end_location" : {
+                  "lat" : 37.7401887,
+                  "lng" : -122.4665815
+               },
+               "start_address" : "60 W Portal Ave, San Francisco, CA 94127, USA",
+               "start_location" : {
+                  "lat" : 37.7401887,
+                  "lng" : -122.4665815
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 37.7401887,
+                        "lng" : -122.4665815
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eW Portal Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ecjeFbgnjV"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7401887,
+                        "lng" : -122.4665815
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ecjeFbgnjV"
+         },
+         "summary" : "W Portal Ave",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLU07eTNOyxQR4CO9n4M6sUI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJH8b85OtPyxQRk5YVSGbTiQc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7966705,
+               "lng" : 29.9713507
+            },
+            "southwest" : {
+               "lat" : 40.7726452,
+               "lng" : 29.9561826
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.1 km",
+                  "value" : 4089
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "end_address" : "Yenişehir, Turan Güneş Cd. No:268, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7726452,
+                  "lng" : 29.9561826
+               },
+               "start_address" : "Gündoğdu, Etkin Sk. 18-2, 41060 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7966705,
+                  "lng" : 29.956681
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.795362,
+                        "lng" : 29.9581771
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eEtkin Sk.\u003c/b\u003e toward \u003cb\u003eMolla Recep Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eb_xFg|yuDBEHKBEt@}@Vc@@C^g@^[Za@PQZUHINU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7966705,
+                        "lng" : 29.956681
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 250
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.79321909999999,
+                        "lng" : 29.9577007
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eBucak Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_z~wFsezuDRTf@b@p@`@h@Dd@C~@Eb@Eb@@L?T@N@R@\\D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.795362,
+                        "lng" : 29.9581771
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 668
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 40.79162549999999,
+                        "lng" : 29.9651555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eArnavut Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sl~wFsbzuD?AVo@Ha@F]Fe@Hk@DU\\uBRoA?CVkBTcBHa@Ls@Jw@Dm@?i@?KCa@Ae@@y@@_@Bw@@MFk@?C\\gCFk@Fu@JqAj@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79321909999999,
+                        "lng" : 29.9577007
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 750
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 40.7867938,
+                        "lng" : 29.9713507
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eGündoğdu Sk.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ub~wFgq{uDhAwApBiC~AqB`AgBv@sAjA}AX[t@}@RUv@}@T_@PWXa@p@eAh@}@jD{E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.79162549999999,
+                        "lng" : 29.9651555
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 km",
+                        "value" : 2228
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 350
+                     },
+                     "end_location" : {
+                        "lat" : 40.7726452,
+                        "lng" : 29.9561826
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTuran Güneş Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "md}wF}w|uDr@r@t@j@LHlAx@\\RhA|@tAz@d@d@LHdAj@hAd@bH`BfARzAXdCh@n@NhCl@~@HX@RDtDhArAf@\\N`@NbA`@l@`@l@b@FDb@l@FHf@|@p@vA~@lCFVJt@Dr@@bA?DG|AAh@@`@Jx@FZHXP\\T\\|@~@nBrBd@bAfAnBDDp@dANZHPHr@@l@?n@?h@B~ANdBFh@?B?B?@?BRd@R\\x@z@T^DLTf@Pj@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7867938,
+                        "lng" : 29.9713507
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eb_xFg|yuDfAuAXg@^g@^[l@s@d@_@NURTf@b@p@`@h@Dd@CbBKvADp@FVq@P_APqAv@_Fl@oEVuAPeB?u@EgAByADeAFo@d@sDRgCj@YhAwApE{FxB{DdByBhAsAlA}AfC}DjD{Er@r@bAt@jBlAhA|@tAz@r@n@dAj@hAd@jJtB`FbAxD|@xAJRDtDhApBv@dBp@zAdAj@r@n@fAp@vA~@lCRlAFvBGbB?jARtAHXP\\T\\|@~@nBrBd@bAlAtB`A`BHPHr@@|ABhCVvC?Df@bAx@z@T^Zt@Pj@"
+         },
+         "summary" : "Turan Güneş Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

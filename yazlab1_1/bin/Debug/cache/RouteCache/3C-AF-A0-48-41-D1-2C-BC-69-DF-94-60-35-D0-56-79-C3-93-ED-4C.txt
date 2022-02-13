@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTzqn8HEWzBQR5fvovH49Byk",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTzqn8HEWzBQR5fvovH49Byk",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.774884,
+               "lng" : 30.4987954
+            },
+            "southwest" : {
+               "lat" : 39.774884,
+               "lng" : 30.4987954
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Osmangazi, Basın Şehitleri Cd. No:114, 26140 Odunpazarı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.774884,
+                  "lng" : 30.4987954
+               },
+               "start_address" : "Osmangazi, Basın Şehitleri Cd. No:114, 26140 Odunpazarı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.774884,
+                  "lng" : 30.4987954
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.774884,
+                        "lng" : 30.4987954
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "_pwqFoxcyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.774884,
+                        "lng" : 30.4987954
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_pwqFoxcyD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

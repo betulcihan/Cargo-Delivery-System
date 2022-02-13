@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu5CyuENFyxQR4bBsDfokY_U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu5CyuENFyxQR4bBsDfokY_U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7458265,
+               "lng" : 29.9547099
+            },
+            "southwest" : {
+               "lat" : 40.7458265,
+               "lng" : 29.9547099
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Vezirçiftliği, Mezbaha Cd. No:50, 41140 Kabaoğlu Köyü/Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7458265,
+                  "lng" : 29.9547099
+               },
+               "start_address" : "Vezirçiftliği, Mezbaha Cd. No:50, 41140 Kabaoğlu Köyü/Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7458265,
+                  "lng" : 29.9547099
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7458265,
+                        "lng" : 29.9547099
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "mduwF}oyuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7458265,
+                        "lng" : 29.9547099
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mduwF}oyuD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

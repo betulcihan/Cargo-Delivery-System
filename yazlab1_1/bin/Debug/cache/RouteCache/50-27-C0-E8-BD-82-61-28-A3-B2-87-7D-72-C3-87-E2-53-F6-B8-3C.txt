@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq6q6hotPyxQRzQo-qfnX_R4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJq6q6hotPyxQRzQo-qfnX_R4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7644835,
+               "lng" : 29.9480037
+            },
+            "southwest" : {
+               "lat" : 40.7644835,
+               "lng" : 29.9480037
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kadıköy, Atatürk Blv. No:28, 41050 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7644835,
+                  "lng" : 29.9480037
+               },
+               "start_address" : "Kadıköy, Atatürk Blv. No:28, 41050 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7644835,
+                  "lng" : 29.9480037
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7644835,
+                        "lng" : 29.9480037
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eŞht. Rafet Karacan Blv\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_yxwF_fxuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7644835,
+                        "lng" : 29.9480037
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_yxwF_fxuD"
+         },
+         "summary" : "Şht. Rafet Karacan Blv",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

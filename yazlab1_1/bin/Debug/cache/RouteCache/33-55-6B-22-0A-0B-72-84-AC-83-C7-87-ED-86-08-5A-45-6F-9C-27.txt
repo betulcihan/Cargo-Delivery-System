@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgbXlGYdPyxQRdHtk3nfbLRQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ74YCC4ZPyxQRuj1QZCUFK6s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.767532,
+               "lng" : 29.9384816
+            },
+            "southwest" : {
+               "lat" : 40.7658981,
+               "lng" : 29.9356145
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 399
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 107
+               },
+               "end_address" : "Cedit, Turan Güneş Cd. No:34, 41300 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.767532,
+                  "lng" : 29.9383958
+               },
+               "start_address" : "Cedit, Leyla Atakan Cd. No:24, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7659182,
+                  "lng" : 29.9356145
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.7662924,
+                        "lng" : 29.9379387
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBostanlar Sk.\u003c/b\u003e toward \u003cb\u003eAziz Yıldız Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_bywFqxuuD@eA@u@A_@QiBOiAQs@WmA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7659182,
+                        "lng" : 29.9356145
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.7671695,
+                        "lng" : 29.9376303
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDevlet Hst. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "idywFcgvuDOJGDKDOBOBG@C@]D_@Ha@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7662924,
+                        "lng" : 29.9379387
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.7673841,
+                        "lng" : 29.9384816
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yiywFeevuDCSYmBKg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7671695,
+                        "lng" : 29.9376303
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.767532,
+                        "lng" : 29.9383958
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ckywFojvuD]N"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7673841,
+                        "lng" : 29.9384816
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_bywFqxuuDB{BA_@QiBOiAQs@WmAOJSJ_@FiARa@HCSe@uC]N"
+         },
+         "summary" : "Bostanlar Sk. and Devlet Hst. Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

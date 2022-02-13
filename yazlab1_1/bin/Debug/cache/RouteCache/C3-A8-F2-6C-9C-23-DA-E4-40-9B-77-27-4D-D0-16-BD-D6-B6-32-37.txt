@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnWuxnXaoLIYRlNLwFXb33xM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnWuxnXaoLIYRlNLwFXb33xM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.3266005,
+               "lng" : -91.234291
+            },
+            "southwest" : {
+               "lat" : 34.3266005,
+               "lng" : -91.234291
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "5884 AR-153, DeWitt, AR 72042, USA",
+               "end_location" : {
+                  "lat" : 34.3266005,
+                  "lng" : -91.234291
+               },
+               "start_address" : "5884 AR-153, DeWitt, AR 72042, USA",
+               "start_location" : {
+                  "lat" : 34.3266005,
+                  "lng" : -91.234291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 34.3266005,
+                        "lng" : -91.234291
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eAR-153 E\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glopEhezkP"
+                     },
+                     "start_location" : {
+                        "lat" : 34.3266005,
+                        "lng" : -91.234291
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glopEhezkP"
+         },
+         "summary" : "AR-153 E",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

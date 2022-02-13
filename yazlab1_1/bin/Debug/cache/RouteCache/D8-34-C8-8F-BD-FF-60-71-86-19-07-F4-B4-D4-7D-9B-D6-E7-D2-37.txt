@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzU9u_3xFyxQR69KTSi_a-XI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXUgY94pPyxQR9-6D28axKVI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7619718,
+               "lng" : 29.948041
+            },
+            "southwest" : {
+               "lat" : 40.7612718,
+               "lng" : 29.936453
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 984
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 118
+               },
+               "end_address" : "Körfez, Rıza Paşa Sk. No:1, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7619718,
+                  "lng" : 29.948041
+               },
+               "start_address" : "Karabaş, Oramiral Salim Dervişoğlu Cd. No:88, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7612718,
+                  "lng" : 29.936453
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 984
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 40.7619718,
+                        "lng" : 29.948041
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e toward \u003cb\u003e2. Cd.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}dxwFy}uuD]gNEcCImCCQJu@HaBAQW{AGUCsAAgAA}@SmIC{@?y@CcAImBEiAAYASIgCCi@?CGgB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7612718,
+                        "lng" : 29.936453
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}dxwFy}uuDc@kRImCCQJu@HaBYmBGUCsACeCWiKC}BSeFU}G"
+         },
+         "summary" : "Oramiral Salim Dervişoğlu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

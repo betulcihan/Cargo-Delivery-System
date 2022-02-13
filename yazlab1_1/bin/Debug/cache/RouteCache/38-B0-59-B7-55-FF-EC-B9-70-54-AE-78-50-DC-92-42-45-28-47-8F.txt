@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJi57BFOFEyxQR4_WHBT-OAa0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJi57BFOFEyxQR4_WHBT-OAa0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7203137,
+               "lng" : 29.9466633
+            },
+            "southwest" : {
+               "lat" : 40.7203137,
+               "lng" : 29.9466633
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yeşilyurt, Şht. Astsubay Çvş. Bilge İlhan Sk. 334 A, 41190 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7203137,
+                  "lng" : 29.9466633
+               },
+               "start_address" : "Yeşilyurt, Şht. Astsubay Çvş. Bilge İlhan Sk. 334 A, 41190 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7203137,
+                  "lng" : 29.9466633
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7203137,
+                        "lng" : 29.9466633
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eŞht. Astsubay Çvş. Bilge İlhan Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}dpwFs}wuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7203137,
+                        "lng" : 29.9466633
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}dpwFs}wuD"
+         },
+         "summary" : "Şht. Astsubay Çvş. Bilge İlhan Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

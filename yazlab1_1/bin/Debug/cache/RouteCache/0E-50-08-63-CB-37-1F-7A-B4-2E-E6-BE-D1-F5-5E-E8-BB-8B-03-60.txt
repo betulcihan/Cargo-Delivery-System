@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJb0j6rKiF0BQRWDZB5tZdwq0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJb0j6rKiF0BQRWDZB5tZdwq0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.8749106,
+               "lng" : 32.4864998
+            },
+            "southwest" : {
+               "lat" : 37.8749106,
+               "lng" : 32.4864998
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Devri Cedid, Battalaziz Sk. No:10, 42060 Selçuklu/Konya, Turkey",
+               "end_location" : {
+                  "lat" : 37.8749106,
+                  "lng" : 32.4864998
+               },
+               "start_address" : "Devri Cedid, Battalaziz Sk. No:10, 42060 Selçuklu/Konya, Turkey",
+               "start_location" : {
+                  "lat" : 37.8749106,
+                  "lng" : 32.4864998
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 37.8749106,
+                        "lng" : 32.4864998
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBattalaziz Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "emdfFs_heE"
+                     },
+                     "start_location" : {
+                        "lat" : 37.8749106,
+                        "lng" : 32.4864998
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "emdfFs_heE"
+         },
+         "summary" : "Battalaziz Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

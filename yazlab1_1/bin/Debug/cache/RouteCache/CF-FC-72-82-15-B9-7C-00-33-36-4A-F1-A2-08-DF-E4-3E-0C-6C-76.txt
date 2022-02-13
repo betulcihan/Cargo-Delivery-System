@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgwn-l4lPyxQRAattMLYfrq0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgwn-l4lPyxQRAattMLYfrq0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7634426,
+               "lng" : 29.9437628
+            },
+            "southwest" : {
+               "lat" : 40.7634426,
+               "lng" : 29.9437628
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez Mh., Ankara Karayolu Cd No:125, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7634426,
+                  "lng" : 29.9437628
+               },
+               "start_address" : "Körfez Mh., Ankara Karayolu Cd No:125, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7634426,
+                  "lng" : 29.9437628
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7634426,
+                        "lng" : 29.9437628
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "orxwFokwuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7634426,
+                        "lng" : 29.9437628
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "orxwFokwuD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

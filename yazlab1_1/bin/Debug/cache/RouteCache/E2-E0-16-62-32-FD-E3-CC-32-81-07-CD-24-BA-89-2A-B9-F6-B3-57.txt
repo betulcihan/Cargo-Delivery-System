@@ -1,0 +1,252 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJewu-SIZPyxQRuEYlGZYkT1g",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSVksVX1FyxQRIsdHfWBek5Q",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7662352,
+               "lng" : 29.9408351
+            },
+            "southwest" : {
+               "lat" : 40.7626216,
+               "lng" : 29.9371446
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 866
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 215
+               },
+               "end_address" : "Körfez, İstanbul İzmit Yanyolu No:83, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7626216,
+                  "lng" : 29.9394903
+               },
+               "start_address" : "Cedit, Bostanlar Sk. No:8, 41300 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7662352,
+                  "lng" : 29.9377565
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "43 m",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eBostanlar Sk.\u003c/b\u003e toward \u003cb\u003eGoncagül Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_dywF_fvuDLh@Pr@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7662352,
+                        "lng" : 29.9377565
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHalit Molla Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_cywFacvuD~Du@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7660837,
+                        "lng" : 29.9372857
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.765048,
+                        "lng" : 29.9371446
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_}xwFwdvuDLrA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651227,
+                        "lng" : 29.9375642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.7651087,
+                        "lng" : 29.9392456
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCengiz Topel Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "q|xwFcbvuDl@MMuAQyAKcAEkBGw@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.765048,
+                        "lng" : 29.9371446
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.7653044,
+                        "lng" : 29.9404044
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|xwFiovuDe@eF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7651087,
+                        "lng" : 29.9392456
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.7635613,
+                        "lng" : 29.9408351
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSanayi Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c~xwFovvuDBQDIDKFKFKHGPCdAChCCnAC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7653044,
+                        "lng" : 29.9404044
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7628735,
+                        "lng" : 29.9397015
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gsxwFgyvuDHRBLBT@ZBXF\\DPHPJLTNZLJBNB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7635613,
+                        "lng" : 29.9408351
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 m",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.7626216,
+                        "lng" : 29.9394903
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}nxwFcrvuD^VHHFF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7628735,
+                        "lng" : 29.9397015
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_dywF_fvuD^|A~Du@LrAl@MMuA]}CEkBGw@e@eFBQJUNWHGPCnEGnACHRFb@Dt@Ln@HP`@\\f@PNB^VPP"
+         },
+         "summary" : "Cengiz Topel Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

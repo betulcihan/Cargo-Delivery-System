@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIV619lRXyxQRd93e-kuOcq8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIV619lRXyxQRd93e-kuOcq8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.729707,
+               "lng" : 30.0697028
+            },
+            "southwest" : {
+               "lat" : 40.729707,
+               "lng" : 30.0697028
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Sarımeşe, Sapanca Yolu Cd. No:210/A, 41250 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.729707,
+                  "lng" : 30.0697028
+               },
+               "start_address" : "Sarımeşe, Sapanca Yolu Cd. No:210/A, 41250 Kartepe/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.729707,
+                  "lng" : 30.0697028
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.729707,
+                        "lng" : 30.0697028
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eSapanca Yolu Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u_rwFs~ovD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.729707,
+                        "lng" : 30.0697028
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "u_rwFs~ovD"
+         },
+         "summary" : "Sapanca Yolu Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

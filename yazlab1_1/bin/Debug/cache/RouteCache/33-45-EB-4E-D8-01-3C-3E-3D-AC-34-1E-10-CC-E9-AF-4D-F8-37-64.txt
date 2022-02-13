@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-4XpYpPyxQR9KXI9mNA_sI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdVnJEGFFyxQR1qUjB0VDSv0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7606828,
+               "lng" : 29.9549732
+            },
+            "southwest" : {
+               "lat" : 40.7552697,
+               "lng" : 29.9465703
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1648
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 365
+               },
+               "end_address" : "Sanayi, Unnamed Road, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7573794,
+                  "lng" : 29.9465703
+               },
+               "start_address" : "Körfez, Şht. Basri Sk. No:23, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.760363,
+                  "lng" : 29.950183
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 329
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 40.7606383,
+                        "lng" : 29.9540583
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eŞht. Basri Sk.\u003c/b\u003e toward \u003cb\u003eMuherrem Ertuğ Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g_xwFssxuDKuAGiBA[K_CMiCOkCFuC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.760363,
+                        "lng" : 29.950183
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.7594299,
+                        "lng" : 29.9543011
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKahya Kadın Cd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_axwF{kyuDVANAv@K|@OTCJCp@G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7606383,
+                        "lng" : 29.9540583
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.7580028,
+                        "lng" : 29.9549732
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKübra Sk\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mywwFkmyuDj@SXOXOn@Uz@]h@Of@M"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7594299,
+                        "lng" : 29.9543011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 445
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.7552697,
+                        "lng" : 29.9511478
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHayrettin Uzun Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "opwwFqqyuDHL~ArCfBtDbDjFjDvD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7580028,
+                        "lng" : 29.9549732
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 283
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 40.7576331,
+                        "lng" : 29.949942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m_wwFuyxuDOTEDIFIDkAb@{Bv@OHqAh@_Ct@C@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7552697,
+                        "lng" : 29.9511478
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 286
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 40.7573794,
+                        "lng" : 29.9465703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "enwwFcrxuD@^@T?PBRBL@n@@ZBRB^@H@T@XBjBJlEBbA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7576331,
+                        "lng" : 29.949942
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g_xwFssxuDS_EM{C]uGFuCVAfAMrAS|@KdAc@hAe@dBm@f@MHL~ArCfBtDbDjFjDvDUZSLgEzAaBr@cCv@FzAJlBHxAR|J"
+         },
+         "summary" : "Hayrettin Uzun Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

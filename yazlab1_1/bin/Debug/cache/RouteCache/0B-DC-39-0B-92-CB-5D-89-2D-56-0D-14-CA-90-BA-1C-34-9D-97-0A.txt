@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU3JLFZK5yhQRU9ncxHlnNM0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU3JLFZK5yhQRU9ncxHlnNM0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0130662,
+               "lng" : 28.9654404
+            },
+            "southwest" : {
+               "lat" : 41.0130662,
+               "lng" : 28.9654404
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Süleymaniye, Fuat Paşa Cd. No:49, 34116 Fatih/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0130662,
+                  "lng" : 28.9654404
+               },
+               "start_address" : "Süleymaniye, Fuat Paşa Cd. No:49, 34116 Fatih/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0130662,
+                  "lng" : 28.9654404
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.0130662,
+                        "lng" : 28.9654404
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "ujiyF_ixoD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0130662,
+                        "lng" : 28.9654404
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ujiyF_ixoD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

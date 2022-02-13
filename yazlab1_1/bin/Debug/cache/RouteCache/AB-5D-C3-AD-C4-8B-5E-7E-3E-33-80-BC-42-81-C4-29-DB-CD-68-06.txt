@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHy5iEJQXzBQRnbVcbJnXnvc",
+         "types" : [ "establishment", "home_goods_store", "point_of_interest", "store" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHy5iEJQXzBQRnbVcbJnXnvc",
+         "types" : [ "establishment", "home_goods_store", "point_of_interest", "store" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7663207,
+               "lng" : 30.5200099
+            },
+            "southwest" : {
+               "lat" : 39.7663207,
+               "lng" : 30.5200099
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Arifiye, Mustafa Kemal Atatürk Cd no 10/d, 26010 Odunpazarı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7663207,
+                  "lng" : 30.5200099
+               },
+               "start_address" : "Arifiye, Mustafa Kemal Atatürk Cd no 10/d, 26010 Odunpazarı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7663207,
+                  "lng" : 30.5200099
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7663207,
+                        "lng" : 30.5200099
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eMustafa Kemal Atatürk Cd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ozuqFa}gyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7663207,
+                        "lng" : 30.5200099
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ozuqFa}gyD"
+         },
+         "summary" : "Mustafa Kemal Atatürk Cd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

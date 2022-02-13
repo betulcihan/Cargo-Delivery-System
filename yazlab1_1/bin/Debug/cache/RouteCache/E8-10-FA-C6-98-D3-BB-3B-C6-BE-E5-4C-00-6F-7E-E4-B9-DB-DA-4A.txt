@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHZpBBQcWzBQRw8bXR2ZK8Cc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHZpBBQcWzBQRw8bXR2ZK8Cc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.7744968,
+               "lng" : 30.5198477
+            },
+            "southwest" : {
+               "lat" : 39.7744968,
+               "lng" : 30.5198477
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Deliklitaş, Değirmen Sk. No:5, 26090 Odunpazarı/Eskişehir, Turkey",
+               "end_location" : {
+                  "lat" : 39.7744968,
+                  "lng" : 30.5198477
+               },
+               "start_address" : "Deliklitaş, Değirmen Sk. No:5, 26090 Odunpazarı/Eskişehir, Turkey",
+               "start_location" : {
+                  "lat" : 39.7744968,
+                  "lng" : 30.5198477
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.7744968,
+                        "lng" : 30.5198477
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eLokantalar Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "smwqFa|gyD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.7744968,
+                        "lng" : 30.5198477
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "smwqFa|gyD"
+         },
+         "summary" : "Lokantalar Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

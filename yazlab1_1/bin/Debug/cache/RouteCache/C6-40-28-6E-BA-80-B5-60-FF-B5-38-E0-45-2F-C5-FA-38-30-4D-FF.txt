@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA5NP7WJFyxQRtdnQSbM1UDM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA5NP7WJFyxQRtdnQSbM1UDM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.760927,
+               "lng" : 29.9411727
+            },
+            "southwest" : {
+               "lat" : 40.760927,
+               "lng" : 29.9411727
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Körfez, Sanayi Cd. No:1, 41040 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.760927,
+                  "lng" : 29.9411727
+               },
+               "start_address" : "Körfez, Sanayi Cd. No:1, 41040 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.760927,
+                  "lng" : 29.9411727
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.760927,
+                        "lng" : 29.9411727
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eSanayi Cd.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eÖmer Türkçakal Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ybxwFi{vuD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.760927,
+                        "lng" : 29.9411727
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ybxwFi{vuD"
+         },
+         "summary" : "Sanayi Cd./Ömer Türkçakal Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

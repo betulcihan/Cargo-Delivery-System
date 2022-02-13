@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcWNoL41OyxQRPGWypzIBnz4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcWNoL41OyxQRPGWypzIBnz4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8249018,
+               "lng" : 29.9185737
+            },
+            "southwest" : {
+               "lat" : 40.8249018,
+               "lng" : 29.9185737
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kabaoğlu, Kocaeli Ünv. Tıp Fak Hst. Acil Servis, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8249018,
+                  "lng" : 29.9185737
+               },
+               "start_address" : "Kabaoğlu, Kocaeli Ünv. Tıp Fak Hst. Acil Servis, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8249018,
+                  "lng" : 29.9185737
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8249018,
+                        "lng" : 29.9185737
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "srdxFanruD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8249018,
+                        "lng" : 29.9185737
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "srdxFanruD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

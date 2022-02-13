@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ-uCy5S50hQRcuyNvqqjVt8",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ-uCy5S50hQRcuyNvqqjVt8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1578734,
+               "lng" : 31.9207823
+            },
+            "southwest" : {
+               "lat" : 40.1578734,
+               "lng" : 31.9207823
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Hacıkara, Şht. Ali Başmakçı Sk. No:31, 06730 Beypazarı/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 40.1578734,
+                  "lng" : 31.9207823
+               },
+               "start_address" : "Hacıkara, Şht. Ali Başmakçı Sk. No:31, 06730 Beypazarı/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 40.1578734,
+                  "lng" : 31.9207823
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1578734,
+                        "lng" : 31.9207823
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "uibtF{oyaE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1578734,
+                        "lng" : 31.9207823
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uibtF{oyaE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

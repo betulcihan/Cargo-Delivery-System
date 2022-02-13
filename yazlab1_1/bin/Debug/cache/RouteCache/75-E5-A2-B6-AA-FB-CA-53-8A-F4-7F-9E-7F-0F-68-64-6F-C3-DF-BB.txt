@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJtV6jQtNEyxQRuZu0RLtk-NI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJtV6jQtNEyxQRuZu0RLtk-NI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.70873330000001,
+               "lng" : 29.9752007
+            },
+            "southwest" : {
+               "lat" : 40.70873330000001,
+               "lng" : 29.9752007
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Paşadağ, Ulus Cd. No:75, 41190 Başiskele/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.70873330000001,
+                  "lng" : 29.9752007
+               },
+               "start_address" : "Paşadağ, Ulus Cd. No:75, 41190 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.70873330000001,
+                  "lng" : 29.9752007
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.70873330000001,
+                        "lng" : 29.9752007
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "q|mwF_p}uD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.70873330000001,
+                        "lng" : 29.9752007
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q|mwF_p}uD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

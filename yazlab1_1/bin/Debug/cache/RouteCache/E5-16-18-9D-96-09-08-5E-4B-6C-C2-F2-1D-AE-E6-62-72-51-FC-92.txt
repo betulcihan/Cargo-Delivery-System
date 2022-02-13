@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5ciokwg-yhQRTx8GobZSWSA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5ciokwg-yhQRTx8GobZSWSA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.1913239,
+               "lng" : 29.0588682
+            },
+            "southwest" : {
+               "lat" : 40.1913239,
+               "lng" : 29.0588682
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Ahmetpaşa, 1. Kıryolu Sk. 28-1, 16050 Osmangazi/Bursa, Turkey",
+               "end_location" : {
+                  "lat" : 40.1913239,
+                  "lng" : 29.0588682
+               },
+               "start_address" : "Ahmetpaşa, 1. Kıryolu Sk. 28-1, 16050 Osmangazi/Bursa, Turkey",
+               "start_location" : {
+                  "lat" : 40.1913239,
+                  "lng" : 29.0588682
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.1913239,
+                        "lng" : 29.0588682
+                     },
+                     "html_instructions" : "Head on \u003cb\u003e1. Kıryolu Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wzhtF}pjpD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.1913239,
+                        "lng" : 29.0588682
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wzhtF}pjpD"
+         },
+         "summary" : "1. Kıryolu Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

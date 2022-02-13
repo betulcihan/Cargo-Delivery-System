@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6487FQlQyxQRxPqVnHv3L40",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVyHOxOhayxQRxIyo96vKu3Y",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7519943,
+               "lng" : 30.0031967
+            },
+            "southwest" : {
+               "lat" : 40.7192876,
+               "lng" : 29.9899324
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.0 km",
+                  "value" : 3982
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 480
+               },
+               "end_address" : "Rahmiye, Unnamed Road, 41285 Kartepe/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7192876,
+                  "lng" : 30.0013003
+               },
+               "start_address" : "Ovacık, Çuhane Cd. No:26, 41140 Başiskele/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7519943,
+                  "lng" : 29.9899324
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.75198719999999,
+                        "lng" : 29.9901501
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eÇuhane Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}jvwFal`vD?k@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7519943,
+                        "lng" : 29.9899324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3423
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 363
+                     },
+                     "end_location" : {
+                        "lat" : 40.7226506,
+                        "lng" : 30.002272
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eÇuhane Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}jvwFmm`vDj@QpAa@b@Dz@m@tA]dBi@bA]b@MTIxCaAJEHC`@MJEJCb@OTI`@M`@KBA\\Kb@MBA|Cw@RGhA[~DqAfE}A`NgE`@MbA[jC{@FAz@YdEkALEPExFoB`Cu@lAe@h@QdCo@lA[LG`NgEzF_BhC}@bPuFRGxBw@rA]dF}AhCy@\\KvCaAzAi@JC|@Wj@MRCLC`@IHAHAD?D@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.75198719999999,
+                        "lng" : 29.9901501
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 377
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.7193773,
+                        "lng" : 30.0031861
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eKaramürsel Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "qspwFeybvDVUf@QdA[z@WdA_@HCnA]b@MVILAPAJ?J@j@BdAAl@?VA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7226506,
+                        "lng" : 30.002272
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.7192876,
+                        "lng" : 30.0013003
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c_pwF}~bvDApAC`CA|@?V?J?H@F@HDLNX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7193773,
+                        "lng" : 30.0031861
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}jvwFal`vD?k@j@QpAa@b@Dz@m@tA]hDgA~E_BbA[fEqApD_AhGmBfE}A`NgEdBi@rC}@`GeBzKqDvBw@rEkAnNoEzF_BhC}@vP}FxBw@rA]nJwCtDmAfBm@hBe@lASNAD@VUlBm@`Cw@tCy@^CV@pB@dAAGhHBf@Tf@"
+         },
+         "summary" : "Çuhane Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
